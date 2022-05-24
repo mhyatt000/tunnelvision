@@ -1,3 +1,9 @@
+###
+extra things matt wants to ignore
+*.zip
+
+###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
