@@ -1,6 +1,8 @@
 ###
 extra things matt wants to ignore
 *.zip
+*.jpg
+*.json
 
 ###
 
