@@ -1,8 +1,3 @@
-'''
-uses haar cascade not cnn
-https://www.youtube.com/watch?v=mPCZLOVTEc4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=10
-'''
-
 
 import numpy as np
 import cv2
