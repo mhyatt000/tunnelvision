@@ -2,6 +2,7 @@
 extra things matt wants to ignore
 *.zip
 *.jpg
+*.png
 *.json
 .DS_Store
 
