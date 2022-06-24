@@ -50,7 +50,7 @@ def experiment1():
         height, width = img["height"], img["width"]
         area = height * width
 
-        I = io.imread(f'{dir}/images/{dset}/{img["file_name"]}') / 255.0
+        I = io.imread(f'{coco_path}/images/{dset}/{img["file_name"]}') / 255.0
 
         annIds = coco.getAnnIds(imgIds=img["id"], catIds=catIds, iscrowd=None)
         anns = coco.loadAnns(annIds)
@@ -98,41 +98,63 @@ def experiment2_mk_dataset():
     in other words: are non ground truth pixels needed?
     """
 
-    dir, dset, annFile, coco = init_coco()
-    catIds, cats, imgIds, imgs = get_ids(coco)
+    ap = AP()
+    ap.add_argument('-r','--root',type=str)
+    args = ap.parse_args()
 
-    for id, img in tqdm(zip(imgIds, imgs), total=len(imgs)):
+    dset = 'val'
+    coco_path = f"{args.root}/COCOdataset2017"
+    coco = COCO( f"{coco_path}/annotations/instances_val2017.json")
 
-        height = img["height"]
-        width = img["width"]
-        area = height * width
+    catIds = coco.getCatIds()
+    cats = coco.loadCats(catIds)
 
-        I = io.imread(f'{dir}/images/{dset}/{img["file_name"]}') / 255.0
+    imgIds = coco.getImgIds() # [:64]
+    img_infos = coco.loadImgs(imgIds)
+
+    # img2path = lambda img: f'{coco_path}/images/{dset}/{img["file_name"]}'
+    # read_img = lambda img: plt.imread(img)
+    # dataset = [img2path(img) for img in img_infos]
+
+    # annIds = coco.getAnnIds(imgIds=imgIds, catIds=catIds, iscrowd=None)
+    # anns = coco.loadAnns(annIds)
+
+    # shadows = [f'{coco_path}/images/val_shadow/{img["file_name"]}' for img in img_infos]
+
+
+    import matplotlib as mpl
+    mpl.rcParams['figure.dpi']= 600
+
+    for id, img in tqdm(zip(imgIds, img_infos), total=len(img_infos)):
+
+        I = io.imread(f'{coco_path}/images/{dset}/{img["file_name"]}') / 255.0
 
         annIds = coco.getAnnIds(imgIds=id, catIds=catIds, iscrowd=None)
         anns = coco.loadAnns(annIds)
-        anns = [(i["category_id"], i["bbox"]) for i in anns]
-        print(anns)
-        quit()
+        # anns = [(i["category_id"], i["bbox"]) for i in anns]
+
+        # print(anns)
+        # quit()
 
         if not anns:
-            path = f'{dir}/images/val_shadow/{img["file_name"]}'
-            plt.imsave(path, I)
+            path = f'{coco_path}/images/val_shadow/{img["file_name"]}'
+            plt.imsave(path, I, dpi=600)
             continue
 
+        # print(anns)
+        # quit()
         masks = [coco.annToMask(ann) for ann in anns]
         mask = np.sum(masks, axis=0)
-        m = (
-            I.shape[-1] if len(I.shape) == 3 else 1
-        )  # fixes grayscale cuz it needs 3 channels
-        mask = np.array(
-            [[[0, 0, 0] if col == 0 else [1, 1, 1] for col in row] for row in mask]
-        )
+        # fixes grayscale cuz it needs 3 channels
+        m = ( I.shape[-1] if len(I.shape) == 3 else 1)  
+        mask = np.array( [[[0, 0, 0] if col == 0 else [1, 1, 1] for col in row] for row in mask])
         I = np.array([[[col, col, col] for col in row] for row in I]) if m == 1 else I
         I *= mask
 
-        path = f'{dir}/images/val_shadow/{img["file_name"]}'
-        plt.imsave(path, I)
+        path = f'{coco_path}/images/val_shadow/{img["file_name"]}'
+        print(path)
+        plt.imsave(path, I, dpi=600)
+        quit()
 
 
 def experiment2():
@@ -258,7 +280,8 @@ def experiment2():
 
 
 def main():
-    experiment2()
+    # experiment2()
+    experiment2_mk_dataset()
 
 
 if __name__ == "__main__":
