@@ -1,0 +1,11 @@
+bottle 407 413 441 521
+bottle 362 442 385 520
+person 43 31 200 176
+person 225 22 499 524
+person 522 2 638 523
+tennis_racket 171 298 270 519
+person 0 117 39 172
+bench 0 323 409 515
+chair 24 119 469 335
+chair 479 0 538 53
+person 311 0 436 131

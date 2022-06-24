@@ -1,0 +1,16 @@
+sports_ball 20 73 41 89
+person 230 1 268 104
+person 192 1 227 111
+person 85 0 122 111
+person 145 2 175 76
+person 344 0 376 59
+tennis_racket 136 72 278 142
+tennis_racket 71 50 94 101
+tennis_racket 186 13 205 65
+bench 385 59 499 88
+tennis_racket 223 22 240 40
+tennis_racket 148 41 157 65
+tennis_racket 264 38 277 57
+person 256 56 455 333
+bench 411 50 500 67
+bench 442 41 499 52

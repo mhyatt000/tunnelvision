@@ -1,0 +1,4 @@
+chair 38 338 79 482
+dining_table 3 537 421 632
+person 15 124 367 568
+banana 193 280 277 439

@@ -1,0 +1,5 @@
+bottle 0 158 37 409
+person 453 138 639 473
+knife 330 144 501 222
+cake 105 136 536 376
+dining_table 1 206 632 472

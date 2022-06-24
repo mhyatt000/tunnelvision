@@ -1,0 +1,9 @@
+dining_table 0 0 640 419
+fork 0 313 342 426
+knife 459 163 619 202
+bowl 0 0 130 99
+broccoli 112 202 233 315
+broccoli 188 266 286 341
+broccoli 228 212 328 328
+carrot 200 156 375 239
+cup 148 0 286 153

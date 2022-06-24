@@ -1,0 +1,10 @@
+car 247 185 639 359
+car 149 207 300 324
+car 0 184 180 373
+bus 249 121 417 223
+traffic_light 273 38 315 149
+traffic_light 165 116 192 186
+traffic_light 234 62 268 163
+traffic_light 60 162 78 188
+traffic_light 41 117 57 149
+traffic_light 50 168 59 185

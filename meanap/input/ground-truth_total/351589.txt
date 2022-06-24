@@ -1,0 +1,3 @@
+bench 84 127 408 389
+potted_plant 283 115 453 297
+potted_plant 0 96 126 327

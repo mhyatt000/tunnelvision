@@ -1,0 +1,6 @@
+person 248 41 486 604
+person 114 141 351 634
+person 12 7 178 571
+baseball_glove 402 322 482 410
+sports_ball 250 385 276 408
+chair 170 435 279 591

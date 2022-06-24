@@ -1,0 +1,4 @@
+cell_phone 57 102 333 336
+laptop 155 0 639 314
+keyboard 241 0 640 91
+dining_table 0 28 640 379

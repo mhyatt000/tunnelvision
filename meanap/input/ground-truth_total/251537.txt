@@ -1,0 +1,2 @@
+carrot 432 309 623 591
+dining_table 3 2 640 212

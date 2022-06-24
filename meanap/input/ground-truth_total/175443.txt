@@ -1,0 +1,2 @@
+teddy_bear 123 255 363 569
+potted_plant 9 402 49 558

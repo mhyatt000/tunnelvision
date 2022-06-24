@@ -1,0 +1,13 @@
+sports_ball 281 168 288 175
+person 184 139 275 348
+person 368 156 406 226
+person 44 147 71 243
+tennis_racket 258 218 315 240
+tennis_racket 494 209 543 238
+cup 66 173 70 175
+person 512 151 588 283
+person 528 167 541 211
+tennis_racket 526 171 535 180
+sports_ball 182 201 186 205
+tennis_racket 387 191 401 203
+tennis_racket 62 213 73 236

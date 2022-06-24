@@ -1,0 +1,8 @@
+cat 1 111 480 473
+wine_glass 415 15 428 48
+laptop 262 321 640 477
+bottle 125 64 138 115
+wine_glass 384 15 400 51
+wine_glass 400 17 415 49
+wine_glass 426 17 437 48
+oven 214 0 281 124

@@ -1,0 +1,7 @@
+traffic_light 98 63 105 77
+parking_meter 442 110 556 353
+parking_meter 417 110 461 323
+car 128 129 137 136
+car 143 128 157 140
+traffic_light 58 62 64 76
+traffic_light 59 77 65 88

@@ -1,0 +1,15 @@
+potted_plant 210 219 261 300
+tv 0 159 103 319
+couch 341 237 593 421
+potted_plant 310 272 330 304
+potted_plant 275 270 298 309
+potted_plant 448 45 538 137
+potted_plant 533 58 634 154
+book 39 389 69 421
+book 33 363 73 408
+book 34 363 71 404
+book 27 355 61 392
+book 29 358 66 396
+book 30 365 64 402
+vase 230 267 257 301
+potted_plant 259 290 275 309

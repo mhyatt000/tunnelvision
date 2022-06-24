@@ -1,0 +1,6 @@
+motorcycle 4 157 400 562
+person 275 55 377 535
+person 22 70 176 391
+traffic_light 387 42 409 115
+traffic_light 330 28 369 82
+traffic_light 390 149 416 181

@@ -1,0 +1,4 @@
+potted_plant 3 289 124 393
+potted_plant 332 304 399 385
+vase 352 338 380 385
+vase 48 347 75 394

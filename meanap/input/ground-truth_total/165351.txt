@@ -1,0 +1,6 @@
+banana 0 240 544 418
+banana 185 177 354 259
+banana 114 120 540 254
+banana 136 67 549 175
+banana 440 225 532 330
+dining_table 0 0 612 52

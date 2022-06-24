@@ -1,0 +1,8 @@
+bottle 231 77 299 242
+bottle 319 76 388 253
+fork 0 248 47 306
+sandwich 363 208 568 353
+dining_table 0 197 638 503
+vase 291 23 340 203
+sandwich 60 197 146 319
+sandwich 141 216 270 314

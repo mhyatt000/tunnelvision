@@ -1,0 +1,7 @@
+laptop 176 0 639 124
+mouse 21 116 309 218
+keyboard 0 72 157 157
+keyboard 345 48 543 102
+chair 30 16 95 49
+cup 311 0 373 43
+cup 93 29 109 47

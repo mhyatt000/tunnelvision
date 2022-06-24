@@ -1,0 +1,4 @@
+umbrella 31 0 412 220
+person 50 20 234 588
+person 144 187 299 620
+handbag 0 241 56 313

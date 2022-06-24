@@ -1,0 +1,7 @@
+car 396 370 447 396
+traffic_light 268 120 300 184
+truck 495 368 548 405
+car 498 369 547 403
+traffic_light 476 307 500 326
+traffic_light 166 155 189 198
+traffic_light 477 236 501 292

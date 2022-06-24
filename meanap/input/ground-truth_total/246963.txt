@@ -1,0 +1,11 @@
+motorcycle 460 225 533 317
+motorcycle 394 193 431 250
+motorcycle 167 151 233 242
+motorcycle 213 136 274 219
+motorcycle 90 136 150 214
+person 83 97 138 144
+person 150 121 216 212
+person 221 109 277 218
+person 438 150 528 295
+person 360 129 438 248
+stop_sign 437 81 480 125

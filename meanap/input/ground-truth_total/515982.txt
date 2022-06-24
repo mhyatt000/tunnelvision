@@ -1,0 +1,5 @@
+person 159 271 414 394
+person 341 2 591 415
+person 612 0 640 94
+baseball_glove 340 20 406 69
+sports_ball 27 41 51 65

@@ -1,0 +1,10 @@
+bottle 248 0 302 166
+bottle 379 0 442 180
+dining_table 0 1 638 474
+person 0 308 272 478
+wine_glass 429 123 513 253
+wine_glass 325 106 388 230
+spoon 175 162 220 292
+bowl 84 124 274 266
+pizza 258 238 475 403
+fork 94 160 185 291

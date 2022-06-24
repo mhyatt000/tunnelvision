@@ -1,0 +1,4 @@
+toilet 207 159 494 590
+toilet 1 192 54 453
+potted_plant 218 14 274 363
+person 33 52 343 575

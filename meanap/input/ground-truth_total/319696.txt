@@ -1,0 +1,5 @@
+bottle 361 90 413 222
+microwave 14 70 304 246
+clock 262 101 289 115
+teddy_bear 323 66 357 118
+potted_plant 435 0 500 106

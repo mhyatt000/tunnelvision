@@ -1,0 +1,5 @@
+person 1 133 127 328
+person 394 54 500 324
+giraffe 126 28 271 328
+giraffe 85 191 182 325
+person 221 232 364 329

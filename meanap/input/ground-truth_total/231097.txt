@@ -1,0 +1,11 @@
+fork 503 1 620 70
+bowl 1 89 46 214
+broccoli 116 196 264 322
+broccoli 254 156 352 316
+broccoli 330 213 499 307
+carrot 173 172 223 219
+fork 349 73 556 198
+cup 5 0 120 58
+bowl 8 1 131 60
+dining_table 0 1 640 479
+broccoli 225 184 283 242

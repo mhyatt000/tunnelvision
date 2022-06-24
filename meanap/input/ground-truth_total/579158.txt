@@ -1,0 +1,9 @@
+airplane 0 2 574 420
+suitcase 28 330 51 344
+suitcase 187 322 219 345
+suitcase 220 327 247 341
+suitcase 94 336 121 357
+suitcase 130 334 161 352
+suitcase 136 309 184 347
+truck 0 138 150 219
+suitcase 253 321 283 337

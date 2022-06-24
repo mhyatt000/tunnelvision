@@ -1,0 +1,4 @@
+bowl 1 341 612 605
+orange 0 31 612 521
+dining_table 344 433 612 604
+dining_table 0 428 240 612

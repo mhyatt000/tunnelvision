@@ -1,0 +1,12 @@
+car 361 347 424 396
+traffic_light 75 0 136 52
+parking_meter 275 23 398 269
+person 0 322 21 377
+person 81 330 89 363
+person 112 332 122 356
+person 17 327 26 356
+person 120 335 126 349
+person 55 329 72 370
+traffic_light 6 89 37 127
+traffic_light 148 146 191 197
+car 140 337 271 388

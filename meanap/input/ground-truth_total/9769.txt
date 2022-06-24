@@ -1,0 +1,5 @@
+person 139 200 183 274
+fire_hydrant 551 258 563 279
+person 310 203 350 241
+person 252 200 300 235
+truck 84 187 463 376

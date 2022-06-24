@@ -1,0 +1,4 @@
+potted_plant 64 58 169 228
+car 190 39 428 149
+person 104 92 276 432
+umbrella 0 415 313 593

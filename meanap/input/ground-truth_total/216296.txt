@@ -1,0 +1,5 @@
+person 477 42 602 239
+person 192 123 379 402
+tennis_racket 295 125 334 167
+person 289 0 379 160
+clock 535 154 543 160

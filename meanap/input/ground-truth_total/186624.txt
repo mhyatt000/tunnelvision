@@ -1,0 +1,5 @@
+train 128 1 639 516
+person 40 297 97 477
+train 1 112 209 414
+handbag 31 314 76 360
+backpack 79 311 102 341

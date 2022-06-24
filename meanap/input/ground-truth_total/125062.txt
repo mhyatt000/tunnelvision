@@ -1,0 +1,10 @@
+teddy_bear 178 323 422 622
+teddy_bear 97 291 291 560
+teddy_bear 21 261 203 492
+teddy_bear 1 227 125 442
+book 206 3 278 304
+book 260 0 336 395
+book 323 0 418 353
+book 387 2 427 365
+book 156 4 211 300
+book 71 0 171 267

@@ -1,0 +1,5 @@
+elephant 231 190 411 414
+elephant 162 199 270 365
+person 485 78 640 474
+sports_ball 318 343 326 361
+person 0 197 104 480

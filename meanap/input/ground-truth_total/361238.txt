@@ -1,0 +1,10 @@
+person 96 2 360 255
+person 581 20 640 131
+cup 0 327 24 448
+pizza 39 319 500 467
+pizza 306 230 597 436
+pizza 42 241 311 346
+backpack 3 230 108 306
+cup 3 299 75 392
+potted_plant 412 64 469 136
+dining_table 0 238 640 480

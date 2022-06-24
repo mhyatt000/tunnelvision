@@ -1,0 +1,5 @@
+person 260 41 371 334
+baseball_bat 132 229 245 239
+potted_plant 164 98 204 152
+potted_plant 20 75 119 122
+potted_plant 5 124 112 188

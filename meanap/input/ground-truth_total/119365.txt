@@ -1,0 +1,5 @@
+cell_phone 324 292 374 374
+person 5 306 425 634
+laptop 121 143 417 486
+keyboard 141 309 338 427
+person 0 198 229 547

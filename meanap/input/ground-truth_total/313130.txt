@@ -1,0 +1,4 @@
+refrigerator 181 73 386 473
+microwave 387 127 521 225
+chair 48 123 127 278
+chair 93 133 128 158

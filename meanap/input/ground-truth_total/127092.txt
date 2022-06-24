@@ -1,0 +1,8 @@
+car 147 408 218 458
+car 62 381 121 416
+person 24 420 48 477
+handbag 32 450 43 470
+fire_hydrant 387 432 399 455
+stop_sign 379 343 390 367
+potted_plant 548 406 588 448
+car 0 347 15 371

@@ -1,0 +1,3 @@
+couch 1 42 640 474
+teddy_bear 271 155 509 414
+teddy_bear 151 129 371 389

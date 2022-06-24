@@ -1,0 +1,4 @@
+broccoli 366 92 504 236
+broccoli 33 157 112 268
+potted_plant 1 57 399 473
+potted_plant 298 90 640 480

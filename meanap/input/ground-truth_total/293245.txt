@@ -1,0 +1,4 @@
+motorcycle 169 138 584 450
+potted_plant 377 183 404 219
+potted_plant 586 200 610 228
+potted_plant 489 206 505 227

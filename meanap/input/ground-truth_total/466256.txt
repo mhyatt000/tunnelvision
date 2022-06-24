@@ -1,0 +1,12 @@
+dining_table 0 0 640 419
+fork 110 129 357 420
+carrot 314 58 484 96
+carrot 334 92 400 137
+carrot 381 90 438 184
+carrot 186 101 276 112
+carrot 236 72 262 102
+carrot 382 66 429 82
+carrot 373 23 424 36
+carrot 265 31 277 44
+carrot 265 43 293 69
+carrot 431 60 440 82

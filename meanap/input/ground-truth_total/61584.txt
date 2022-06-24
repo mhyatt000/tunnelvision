@@ -1,0 +1,6 @@
+horse 249 163 323 278
+chair 61 164 100 228
+person 234 96 315 281
+person 233 102 288 152
+dining_table 14 174 56 230
+chair 0 167 36 235

@@ -1,0 +1,5 @@
+dog 86 90 169 165
+potted_plant 207 69 314 151
+tv 25 45 44 118
+person 176 23 262 107
+teddy_bear 53 116 93 145

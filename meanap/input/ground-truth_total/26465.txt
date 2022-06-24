@@ -1,0 +1,6 @@
+cell_phone 398 198 459 258
+chair 358 53 498 133
+person 0 0 131 295
+laptop 106 4 396 292
+keyboard 114 157 397 293
+remote 39 291 125 367

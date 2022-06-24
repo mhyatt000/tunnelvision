@@ -1,0 +1,11 @@
+sports_ball 124 102 136 117
+person 377 0 457 63
+person 110 45 403 315
+person 442 0 500 63
+baseball_glove 285 107 330 152
+person 80 0 188 89
+backpack 84 46 120 95
+baseball_bat 354 0 362 85
+person 172 0 236 61
+cup 373 4 383 18
+person 0 1 62 65

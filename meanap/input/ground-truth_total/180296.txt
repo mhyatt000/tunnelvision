@@ -1,0 +1,5 @@
+backpack 339 132 640 355
+suitcase 118 91 640 360
+chair 495 0 614 63
+chair 0 91 58 137
+chair 23 8 198 99

@@ -1,0 +1,5 @@
+person 186 176 427 629
+person 0 153 195 627
+wine_glass 92 512 144 639
+wine_glass 231 460 288 574
+person 335 178 427 319

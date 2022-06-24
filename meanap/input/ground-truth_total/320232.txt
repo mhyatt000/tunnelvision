@@ -1,0 +1,10 @@
+car 150 385 199 412
+person 34 392 52 418
+person 0 378 21 421
+person 196 374 217 440
+traffic_light 138 300 146 317
+traffic_light 134 303 138 318
+umbrella 37 386 52 397
+umbrella 47 383 64 389
+traffic_light 210 281 224 293
+umbrella 6 384 33 391

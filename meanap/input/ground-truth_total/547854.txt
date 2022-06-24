@@ -1,0 +1,5 @@
+person 44 1 640 414
+pizza 56 417 463 630
+dining_table 473 408 640 540
+person 0 0 97 208
+pizza 0 390 67 457

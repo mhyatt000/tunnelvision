@@ -1,0 +1,5 @@
+car 221 433 425 605
+baseball_bat 143 35 233 438
+car 0 427 40 613
+sports_ball 355 343 375 365
+parking_meter 31 425 261 627

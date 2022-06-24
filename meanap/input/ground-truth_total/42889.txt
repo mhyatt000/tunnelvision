@@ -1,0 +1,2 @@
+keyboard 63 376 349 500
+teddy_bear 58 49 343 350

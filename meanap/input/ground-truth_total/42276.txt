@@ -1,0 +1,2 @@
+potted_plant 146 16 252 105
+toilet 59 15 154 247

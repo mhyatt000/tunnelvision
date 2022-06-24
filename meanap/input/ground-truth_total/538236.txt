@@ -1,0 +1,14 @@
+person 172 2 216 99
+person 206 0 285 80
+person 114 24 175 91
+handbag 201 16 234 86
+hot_dog 348 211 574 368
+hot_dog 213 99 432 229
+person 64 0 117 54
+person 516 0 580 37
+hot_dog 0 239 130 428
+hot_dog 360 95 622 210
+hot_dog 326 321 341 344
+hot_dog 156 189 193 210
+hot_dog 150 225 395 404
+hot_dog 0 121 230 259

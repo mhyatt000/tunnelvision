@@ -1,0 +1,16 @@
+backpack 92 143 219 309
+suitcase 254 166 565 589
+suitcase 38 68 127 182
+backpack 351 136 498 221
+suitcase 215 209 342 488
+chair 466 99 568 189
+chair 423 72 466 140
+chair 315 56 339 92
+chair 285 45 301 70
+chair 564 150 612 209
+backpack 130 4 240 89
+handbag 229 95 303 142
+person 0 0 26 48
+person 93 0 151 44
+chair 152 14 161 26
+person 210 0 291 70

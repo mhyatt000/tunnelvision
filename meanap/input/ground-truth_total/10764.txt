@@ -1,0 +1,2 @@
+person 218 80 483 395
+baseball_glove 388 210 483 278

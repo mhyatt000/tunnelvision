@@ -1,0 +1,5 @@
+train 1 1 640 598
+person 237 179 373 602
+umbrella 141 143 405 294
+handbag 219 249 285 403
+cell_phone 326 287 342 302

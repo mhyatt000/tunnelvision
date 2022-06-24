@@ -1,0 +1,2 @@
+person 260 0 480 302
+surfboard 0 5 317 427

@@ -1,0 +1,13 @@
+dining_table 0 55 632 478
+dining_table 375 1 639 122
+person 1 3 151 279
+cup 412 69 454 136
+cup 55 378 166 480
+pizza 119 133 545 372
+chair 564 96 640 176
+cup 160 393 270 480
+cup 0 287 23 419
+chair 284 0 514 136
+dining_table 6 0 79 59
+person 67 2 375 217
+person 573 285 640 375

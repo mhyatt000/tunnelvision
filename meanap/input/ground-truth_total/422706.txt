@@ -1,0 +1,6 @@
+boat 164 174 285 315
+person 4 17 148 225
+person 0 5 186 157
+person 1 141 120 317
+person 252 266 261 275
+handbag 18 208 74 300

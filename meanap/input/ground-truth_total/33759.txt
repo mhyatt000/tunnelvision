@@ -1,0 +1,5 @@
+sports_ball 596 129 623 154
+person 77 56 269 449
+baseball_bat 77 174 111 237
+car 288 67 340 105
+truck 285 22 623 168

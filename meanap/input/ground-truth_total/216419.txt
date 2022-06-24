@@ -1,0 +1,2 @@
+clock 108 95 264 244
+traffic_light 582 336 605 392

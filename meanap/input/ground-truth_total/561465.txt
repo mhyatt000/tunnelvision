@@ -1,0 +1,6 @@
+donut 224 48 410 216
+donut 56 15 237 178
+donut 1 1 75 170
+cake 368 317 612 605
+donut 15 137 69 180
+dining_table 0 205 338 612

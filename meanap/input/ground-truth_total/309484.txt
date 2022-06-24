@@ -1,0 +1,4 @@
+dog 2 19 533 629
+person 1 1 533 397
+toothbrush 204 234 311 256
+toothbrush 202 214 417 287

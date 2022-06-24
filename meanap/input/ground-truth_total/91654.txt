@@ -1,0 +1,3 @@
+spoon 1 0 212 235
+dining_table 1 1 639 480
+bowl 34 0 637 460

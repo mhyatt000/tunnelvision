@@ -1,0 +1,7 @@
+bottle 60 30 269 238
+refrigerator 20 141 161 375
+toaster 247 194 281 221
+sink 287 205 354 221
+chair 443 207 490 232
+microwave 159 179 241 227
+microwave 42 85 138 142

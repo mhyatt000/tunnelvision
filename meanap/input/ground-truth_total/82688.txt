@@ -1,0 +1,6 @@
+person 0 102 503 428
+remote 544 311 608 336
+remote 428 388 454 415
+person 292 51 414 253
+cell_phone 302 378 325 423
+person 309 29 624 428

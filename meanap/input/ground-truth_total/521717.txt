@@ -1,0 +1,6 @@
+chair 439 96 491 164
+person 293 77 368 218
+person 209 180 299 365
+tennis_racket 201 176 245 208
+sports_ball 198 155 215 172
+person 358 21 410 192

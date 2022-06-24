@@ -1,0 +1,6 @@
+bottle 572 159 608 230
+person 0 8 264 480
+oven 181 103 640 478
+person 83 38 371 479
+spoon 317 351 412 404
+refrigerator 97 0 319 96

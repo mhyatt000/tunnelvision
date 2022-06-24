@@ -1,0 +1,9 @@
+cat 346 146 500 316
+person 0 33 245 316
+refrigerator 1 1 246 88
+refrigerator 178 123 428 316
+bottle 233 296 249 320
+bottle 211 279 235 320
+bottle 317 170 354 240
+bottle 286 160 319 227
+bottle 266 156 296 218

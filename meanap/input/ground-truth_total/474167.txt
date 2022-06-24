@@ -1,0 +1,9 @@
+bottle 110 14 188 243
+person 84 2 346 174
+person 395 12 416 73
+pizza 1 260 395 473
+pizza 220 140 375 192
+person 333 0 359 44
+dining_table 3 166 120 288
+dining_table 190 171 427 258
+handbag 351 0 372 30

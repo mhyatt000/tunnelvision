@@ -1,0 +1,11 @@
+bottle 374 19 494 271
+chair 49 2 187 181
+chair 227 4 295 136
+dining_table 135 4 249 35
+dining_table 3 127 500 447
+cup 323 80 403 207
+carrot 123 208 156 245
+carrot 118 213 140 235
+carrot 119 149 255 262
+carrot 112 176 136 188
+hot_dog 83 199 452 412

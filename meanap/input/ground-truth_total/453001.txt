@@ -1,0 +1,10 @@
+potted_plant 461 234 553 345
+potted_plant 523 130 566 209
+person 138 18 276 469
+bench 492 280 638 472
+suitcase 264 262 375 410
+potted_plant 0 365 158 480
+potted_plant 0 229 158 390
+potted_plant 9 166 78 204
+potted_plant 387 208 420 297
+person 352 109 553 384

@@ -1,0 +1,6 @@
+tv 273 158 614 474
+person 494 55 640 475
+remote 581 58 640 82
+potted_plant 504 14 583 137
+remote 113 175 130 225
+person 0 50 181 473

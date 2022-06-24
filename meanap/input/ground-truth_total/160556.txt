@@ -1,0 +1,9 @@
+person 453 76 638 423
+cell_phone 564 141 602 185
+keyboard 346 272 462 329
+microwave 0 106 349 376
+teddy_bear 13 57 96 124
+laptop 439 243 473 271
+teddy_bear 181 107 216 137
+tv 279 133 405 263
+cell_phone 395 245 413 285

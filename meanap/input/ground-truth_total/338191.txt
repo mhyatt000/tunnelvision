@@ -1,0 +1,9 @@
+fire_hydrant 186 25 453 612
+fire_hydrant 534 187 594 317
+fire_hydrant 544 340 604 456
+fire_hydrant 32 39 102 163
+fire_hydrant 537 493 606 596
+fire_hydrant 25 343 91 461
+fire_hydrant 524 40 609 179
+fire_hydrant 35 494 88 592
+fire_hydrant 12 185 100 318

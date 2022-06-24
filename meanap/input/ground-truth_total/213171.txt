@@ -1,0 +1,2 @@
+person 138 145 257 444
+baseball_glove 213 284 247 329

@@ -1,0 +1,9 @@
+umbrella 49 0 427 199
+person 7 202 259 639
+backpack 0 344 51 568
+chair 264 368 300 485
+dining_table 282 319 365 424
+book 281 293 367 330
+person 291 72 426 193
+laptop 298 329 360 389
+person 320 305 427 639

@@ -1,0 +1,4 @@
+dining_table 1 0 500 375
+remote 300 0 386 30
+donut 256 72 330 242
+donut 7 246 107 344

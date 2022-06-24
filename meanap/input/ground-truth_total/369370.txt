@@ -1,0 +1,7 @@
+sandwich 25 202 483 475
+sandwich 224 68 638 295
+sandwich 0 43 204 213
+sandwich 0 5 188 53
+orange 194 22 314 122
+orange 177 0 312 82
+dining_table 355 1 638 128

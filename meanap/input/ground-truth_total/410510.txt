@@ -1,0 +1,3 @@
+sports_ball 295 201 305 211
+tennis_racket 255 183 286 214
+person 249 192 341 333

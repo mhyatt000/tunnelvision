@@ -1,0 +1,11 @@
+bottle 12 1 147 217
+dining_table 4 95 640 471
+person 297 11 640 224
+wine_glass 0 21 88 277
+wine_glass 182 2 230 75
+wine_glass 127 0 170 59
+fork 238 72 303 104
+pizza 46 135 604 415
+bowl 234 25 455 81
+bottle 0 150 29 213
+fork 138 86 212 112

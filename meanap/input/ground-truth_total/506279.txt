@@ -1,0 +1,2 @@
+dining_table 11 79 640 630
+wine_glass 282 90 425 494

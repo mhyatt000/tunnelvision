@@ -1,0 +1,13 @@
+bottle 230 366 274 393
+bottle 326 0 342 41
+bottle 299 2 321 44
+bottle 286 0 305 50
+bottle 230 4 249 53
+person 73 206 373 578
+refrigerator 138 38 395 619
+bowl 6 163 96 189
+microwave 14 177 139 245
+bottle 295 352 315 389
+bottle 314 466 327 527
+vase 167 0 218 61
+banana 92 239 110 249

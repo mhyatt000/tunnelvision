@@ -1,0 +1,6 @@
+person 229 143 312 461
+person 145 223 171 282
+backpack 140 329 219 386
+boat 4 1 318 494
+suitcase 110 390 242 458
+suitcase 43 406 119 457

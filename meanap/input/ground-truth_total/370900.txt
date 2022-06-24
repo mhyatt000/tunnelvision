@@ -1,0 +1,4 @@
+teddy_bear 146 40 322 270
+teddy_bear 2 198 326 472
+teddy_bear 293 46 597 472
+teddy_bear 588 386 640 468

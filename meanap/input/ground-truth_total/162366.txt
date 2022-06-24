@@ -1,0 +1,1 @@
+parking_meter 357 157 539 401

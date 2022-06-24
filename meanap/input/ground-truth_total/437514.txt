@@ -1,0 +1,3 @@
+potted_plant 376 1 630 533
+bench 23 197 433 506
+person 352 171 414 218

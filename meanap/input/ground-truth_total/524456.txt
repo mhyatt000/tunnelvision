@@ -1,0 +1,6 @@
+laptop 0 2 420 258
+mouse 368 349 584 432
+keyboard 59 83 353 241
+person 120 0 636 298
+person 375 269 640 451
+handbag 517 121 597 205

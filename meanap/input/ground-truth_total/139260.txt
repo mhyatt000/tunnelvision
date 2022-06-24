@@ -1,0 +1,6 @@
+spoon 77 0 124 223
+banana 77 178 598 306
+banana 66 135 187 199
+banana 465 132 576 191
+bowl 0 167 640 363
+dining_table 0 3 640 380

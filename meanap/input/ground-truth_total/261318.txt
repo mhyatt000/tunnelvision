@@ -1,0 +1,6 @@
+cell_phone 172 218 200 264
+person 91 179 304 577
+suitcase 0 353 76 639
+suitcase 353 392 425 629
+handbag 73 449 147 555
+chair 127 308 335 640

@@ -1,0 +1,3 @@
+keyboard 27 137 387 289
+keyboard 49 0 398 120
+mouse 385 146 469 273

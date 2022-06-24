@@ -1,0 +1,7 @@
+couch 0 80 139 248
+chair 512 226 639 446
+person 82 22 621 446
+spoon 166 255 188 306
+bowl 86 243 329 416
+person 0 134 95 265
+dining_table 0 253 640 455

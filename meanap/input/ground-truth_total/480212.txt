@@ -1,0 +1,2 @@
+cell_phone 262 159 456 452
+dining_table 0 3 637 474

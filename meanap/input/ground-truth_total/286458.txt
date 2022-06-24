@@ -1,0 +1,5 @@
+teddy_bear 321 51 358 105
+teddy_bear 319 103 365 144
+backpack 25 2 127 123
+suitcase 59 20 311 302
+suitcase 347 11 455 139

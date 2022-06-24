@@ -1,0 +1,4 @@
+chair 14 31 393 478
+laptop 376 84 600 255
+mouse 491 285 567 325
+dining_table 226 76 640 471

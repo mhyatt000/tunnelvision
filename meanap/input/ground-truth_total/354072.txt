@@ -1,0 +1,3 @@
+bottle 51 284 70 327
+sink 86 281 186 344
+potted_plant 0 318 359 640

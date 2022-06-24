@@ -1,0 +1,7 @@
+dining_table 0 0 612 603
+knife 364 126 612 324
+carrot 2 44 293 522
+carrot 22 7 376 516
+carrot 43 27 459 450
+carrot 63 114 405 522
+carrot 46 410 179 612

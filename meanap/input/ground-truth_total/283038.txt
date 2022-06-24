@@ -1,0 +1,6 @@
+stop_sign 114 12 339 256
+car 0 186 48 215
+truck 53 163 124 203
+traffic_light 355 110 364 127
+traffic_light 80 159 89 168
+traffic_light 31 138 37 150

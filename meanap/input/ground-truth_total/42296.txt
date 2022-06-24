@@ -1,0 +1,4 @@
+sports_ball 188 218 307 322
+sports_ball 0 271 101 346
+bear 148 5 588 303
+sports_ball 97 279 210 345

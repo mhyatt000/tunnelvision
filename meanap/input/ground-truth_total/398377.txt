@@ -1,0 +1,14 @@
+couch 132 120 491 353
+cell_phone 18 130 31 147
+cell_phone 242 121 245 130
+cell_phone 342 179 350 191
+cell_phone 237 139 242 148
+person 0 77 179 367
+person 162 73 375 367
+person 285 34 494 348
+book 45 222 148 247
+handbag 6 234 164 316
+handbag 311 144 455 244
+handbag 171 212 344 311
+person 415 82 441 121
+person 467 34 500 170

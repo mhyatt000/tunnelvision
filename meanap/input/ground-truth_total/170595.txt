@@ -1,0 +1,2 @@
+dining_table 23 153 594 588
+sandwich 301 202 589 430

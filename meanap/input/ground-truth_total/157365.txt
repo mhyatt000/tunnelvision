@@ -1,0 +1,9 @@
+car 1 193 125 376
+car 208 160 282 234
+car 2 171 111 242
+traffic_light 231 89 245 104
+person 106 116 232 480
+traffic_light 0 90 12 149
+car 354 114 427 236
+skateboard 141 468 207 496
+traffic_light 313 15 345 52

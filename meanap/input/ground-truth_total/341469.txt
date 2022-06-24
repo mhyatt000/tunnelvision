@@ -1,0 +1,13 @@
+bicycle 212 287 456 588
+person 188 4 407 633
+handbag 5 464 132 570
+handbag 130 133 254 223
+suitcase 97 388 263 515
+person 414 78 457 322
+suitcase 5 463 131 571
+suitcase 64 359 219 443
+suitcase 133 470 243 553
+suitcase 115 112 240 168
+suitcase 126 132 256 221
+suitcase 26 157 130 221
+suitcase 8 441 99 490

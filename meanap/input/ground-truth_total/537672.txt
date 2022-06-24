@@ -1,0 +1,2 @@
+refrigerator 109 2 426 633
+chair 0 240 57 413

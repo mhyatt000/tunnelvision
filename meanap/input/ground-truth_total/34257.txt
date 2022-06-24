@@ -1,0 +1,6 @@
+broccoli 29 2 237 87
+broccoli 229 21 253 54
+broccoli 279 10 415 84
+broccoli 270 11 329 49
+carrot 126 165 373 279
+carrot 272 173 285 201

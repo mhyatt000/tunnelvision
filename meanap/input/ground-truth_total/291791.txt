@@ -1,0 +1,7 @@
+motorcycle 13 20 587 477
+person 289 0 392 100
+person 0 0 120 278
+person 140 0 295 100
+backpack 531 148 628 289
+handbag 197 0 260 54
+handbag 527 147 626 294

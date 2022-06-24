@@ -1,0 +1,10 @@
+potted_plant 279 16 346 143
+potted_plant 192 27 278 156
+couch 1 118 640 472
+remote 117 249 177 266
+remote 445 305 472 316
+remote 111 242 162 254
+chair 2 280 351 472
+chair 536 140 640 315
+dining_table 373 232 596 415
+remote 110 270 142 281

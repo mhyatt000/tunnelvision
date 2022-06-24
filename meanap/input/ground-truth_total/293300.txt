@@ -1,0 +1,3 @@
+person 0 281 91 422
+elephant 201 75 474 311
+elephant 118 145 237 285

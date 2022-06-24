@@ -1,0 +1,7 @@
+bottle 391 100 415 135
+refrigerator 419 1 498 368
+oven 43 13 298 276
+spoon 359 37 373 83
+spoon 412 55 441 97
+bottle 386 133 413 177
+clock 137 25 255 42

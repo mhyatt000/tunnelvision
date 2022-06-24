@@ -1,0 +1,4 @@
+person 261 198 303 329
+person 626 207 640 288
+tennis_racket 235 213 270 252
+tennis_racket 600 257 633 272

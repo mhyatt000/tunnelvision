@@ -1,0 +1,9 @@
+train 3 155 574 339
+traffic_light 95 1 136 64
+traffic_light 310 1 347 58
+traffic_light 404 1 449 97
+traffic_light 316 53 341 79
+traffic_light 483 4 515 40
+traffic_light 249 0 292 83
+traffic_light 211 164 220 178
+traffic_light 495 50 511 67

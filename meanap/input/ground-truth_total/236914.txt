@@ -1,0 +1,5 @@
+dining_table 15 313 635 442
+teddy_bear 17 17 387 421
+teddy_bear 286 115 492 318
+chair 1 134 62 437
+bottle 486 102 616 400

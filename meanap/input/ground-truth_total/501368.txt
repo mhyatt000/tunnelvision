@@ -1,0 +1,4 @@
+person 119 3 375 493
+bottle 192 316 207 368
+bottle 176 324 188 367
+hair_drier 155 24 190 45

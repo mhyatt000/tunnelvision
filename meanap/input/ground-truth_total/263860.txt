@@ -1,0 +1,2 @@
+elephant 259 86 640 426
+elephant 0 51 307 426

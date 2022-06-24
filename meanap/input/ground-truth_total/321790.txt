@@ -1,0 +1,2 @@
+person 125 8 310 422
+tennis_racket 276 137 484 297

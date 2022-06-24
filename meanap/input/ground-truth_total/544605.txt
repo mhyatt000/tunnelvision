@@ -1,0 +1,1 @@
+traffic_light 278 307 321 349

@@ -1,0 +1,6 @@
+person 214 325 399 631
+person 40 141 226 515
+handbag 0 411 64 522
+couch 1 518 123 631
+baseball_bat 134 136 263 308
+person 247 131 480 639

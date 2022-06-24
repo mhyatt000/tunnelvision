@@ -1,0 +1,5 @@
+bicycle 267 444 361 568
+bicycle 338 426 425 579
+motorcycle 0 383 120 533
+person 0 349 35 455
+bicycle 220 476 288 560

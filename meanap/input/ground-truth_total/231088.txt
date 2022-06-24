@@ -1,0 +1,6 @@
+umbrella 170 346 363 485
+umbrella 1 175 225 391
+umbrella 102 1 375 268
+umbrella 28 386 218 547
+umbrella 69 513 265 625
+umbrella 235 455 425 628

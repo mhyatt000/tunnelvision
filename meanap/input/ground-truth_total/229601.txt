@@ -1,0 +1,11 @@
+person 70 124 79 146
+person 63 125 69 139
+person 105 120 124 172
+person 230 107 259 181
+person 87 75 261 351
+person 470 66 589 358
+baseball_glove 472 207 496 254
+person 196 95 221 196
+person 157 123 164 139
+baseball_glove 110 129 115 138
+person 87 126 93 140

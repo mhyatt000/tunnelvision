@@ -1,0 +1,10 @@
+train 86 52 519 469
+train 513 77 640 463
+person 0 199 34 361
+person 31 206 63 304
+person 57 216 69 239
+person 77 217 92 262
+person 68 219 78 255
+handbag 29 286 50 332
+handbag 36 221 61 266
+person 75 216 81 229

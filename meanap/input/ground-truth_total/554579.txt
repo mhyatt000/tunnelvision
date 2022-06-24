@@ -1,0 +1,6 @@
+dog 200 345 464 605
+person 0 58 193 552
+person 170 69 334 439
+person 303 83 487 402
+handbag 360 276 430 343
+teddy_bear 17 385 59 444

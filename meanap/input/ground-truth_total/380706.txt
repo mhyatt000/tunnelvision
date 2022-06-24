@@ -1,0 +1,9 @@
+motorcycle 299 282 371 397
+bus 221 104 342 189
+person 276 170 381 379
+person 0 146 19 272
+person 25 134 68 249
+car 153 147 179 165
+bus 96 122 155 165
+motorcycle 21 155 31 176
+traffic_light 77 125 81 131

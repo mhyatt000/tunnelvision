@@ -1,0 +1,7 @@
+bowl 2 154 199 358
+bowl 132 0 257 62
+knife 434 300 592 480
+sandwich 153 188 492 480
+sandwich 528 162 637 471
+dining_table 431 0 640 199
+hot_dog 518 185 640 464

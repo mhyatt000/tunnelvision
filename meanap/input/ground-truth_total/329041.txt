@@ -1,0 +1,10 @@
+handbag 222 101 454 427
+handbag 13 9 50 99
+suitcase 70 351 290 562
+suitcase 77 321 276 476
+suitcase 74 286 263 406
+suitcase 60 195 243 319
+suitcase 2 133 61 238
+person 224 3 480 640
+person 121 0 221 167
+person 11 0 119 184

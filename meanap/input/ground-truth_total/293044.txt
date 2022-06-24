@@ -1,0 +1,4 @@
+dining_table 0 0 287 160
+carrot 88 16 153 76
+spoon 72 63 171 138
+sandwich 152 23 269 140

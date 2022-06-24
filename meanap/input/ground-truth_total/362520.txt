@@ -1,0 +1,2 @@
+person 57 131 330 446
+skateboard 50 271 424 540

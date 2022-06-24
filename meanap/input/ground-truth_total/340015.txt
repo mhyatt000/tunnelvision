@@ -1,0 +1,2 @@
+dining_table 1 1 639 120
+pizza 0 1 640 474

@@ -1,0 +1,7 @@
+train 162 143 509 319
+person 53 276 79 332
+traffic_light 544 198 566 235
+traffic_light 445 139 461 156
+traffic_light 135 241 147 253
+handbag 57 282 74 313
+traffic_light 467 136 484 152

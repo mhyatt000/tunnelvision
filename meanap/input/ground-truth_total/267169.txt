@@ -1,0 +1,5 @@
+bottle 436 88 566 230
+person 234 1 359 169
+elephant 0 85 461 422
+elephant 372 239 588 427
+person 483 153 638 283

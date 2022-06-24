@@ -1,0 +1,5 @@
+bottle 47 0 207 131
+sandwich 113 89 499 313
+sandwich 4 198 376 434
+sandwich 423 54 594 186
+dining_table 0 28 640 473

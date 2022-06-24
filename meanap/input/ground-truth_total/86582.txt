@@ -1,0 +1,7 @@
+potted_plant 206 132 289 235
+person 0 20 179 201
+potted_plant 69 162 134 254
+potted_plant 291 156 380 242
+potted_plant 139 183 204 253
+laptop 308 102 635 396
+mouse 398 362 528 418

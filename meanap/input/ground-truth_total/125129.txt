@@ -1,0 +1,10 @@
+cell_phone 241 122 247 129
+chair 0 110 106 251
+chair 178 114 375 288
+chair 451 219 500 329
+dining_table 2 224 353 329
+person 136 54 338 265
+person 98 0 194 226
+person 365 1 476 299
+cell_phone 246 116 250 121
+book 44 285 160 333

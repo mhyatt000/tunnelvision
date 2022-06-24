@@ -1,0 +1,10 @@
+bottle 286 199 321 286
+person 14 16 312 405
+person 502 0 544 70
+person 312 0 367 84
+person 0 127 16 157
+bird 0 73 13 88
+person 246 0 288 45
+bench 263 134 640 425
+bottle 167 278 180 295
+person 232 0 265 35

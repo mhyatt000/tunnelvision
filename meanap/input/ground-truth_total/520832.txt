@@ -1,0 +1,15 @@
+person 241 222 378 443
+handbag 279 281 346 400
+umbrella 180 65 194 170
+umbrella 205 71 220 170
+umbrella 539 115 572 212
+umbrella 562 132 599 210
+umbrella 247 75 262 170
+umbrella 103 62 115 190
+umbrella 143 60 156 162
+umbrella 159 65 177 160
+umbrella 199 72 209 195
+umbrella 548 117 592 214
+umbrella 123 62 135 190
+umbrella 153 63 166 161
+umbrella 259 74 273 171

@@ -1,0 +1,7 @@
+cell_phone 345 221 399 313
+bus 116 129 566 378
+person 71 269 89 304
+bicycle 84 283 113 308
+person 470 264 510 306
+person 0 263 12 282
+person 83 268 91 283

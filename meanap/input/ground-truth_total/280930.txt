@@ -1,0 +1,4 @@
+person 255 1 529 420
+oven 0 248 243 420
+refrigerator 488 126 640 418
+bottle 242 51 283 92

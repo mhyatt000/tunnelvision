@@ -1,0 +1,2 @@
+person 145 78 414 368
+baseball_bat 221 91 359 157

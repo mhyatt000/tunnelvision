@@ -1,0 +1,8 @@
+umbrella 135 97 473 335
+chair 343 306 462 468
+chair 182 294 228 382
+chair 127 310 225 471
+chair 220 352 338 480
+dining_table 227 332 385 371
+potted_plant 511 344 546 405
+potted_plant 1 293 77 408

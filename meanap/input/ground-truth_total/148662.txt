@@ -1,0 +1,4 @@
+hot_dog 74 307 210 435
+person 81 0 638 480
+person 69 0 423 235
+person 0 0 142 247

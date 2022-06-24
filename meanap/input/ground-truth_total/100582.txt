@@ -1,0 +1,3 @@
+dining_table 1 1 640 418
+fork 337 0 575 34
+pizza 1 0 640 415

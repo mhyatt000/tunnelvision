@@ -1,0 +1,4 @@
+motorcycle 291 241 325 314
+motorcycle 364 370 539 480
+person 279 197 336 300
+backpack 299 214 326 247

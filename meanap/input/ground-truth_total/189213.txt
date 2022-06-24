@@ -1,0 +1,3 @@
+chair 346 158 424 286
+chair 125 179 180 238
+refrigerator 225 46 322 197

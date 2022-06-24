@@ -1,0 +1,6 @@
+fire_hydrant 302 307 352 393
+backpack 555 187 580 231
+backpack 471 281 504 313
+person 538 172 583 306
+suitcase 22 324 85 401
+person 44 227 100 385

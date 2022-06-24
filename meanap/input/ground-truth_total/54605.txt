@@ -1,0 +1,15 @@
+dining_table 4 22 612 605
+fork 319 311 521 417
+fork 359 300 531 409
+cake 261 350 518 601
+cup 0 207 78 406
+cup 85 72 259 451
+chair 480 13 576 213
+chair 286 99 386 212
+dining_table 543 40 612 71
+person 488 0 538 102
+person 526 0 610 255
+person 0 0 301 211
+dining_table 306 42 348 64
+chair 419 1 468 89
+person 247 3 319 74

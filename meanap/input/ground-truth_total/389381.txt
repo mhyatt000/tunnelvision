@@ -1,0 +1,6 @@
+bowl 139 275 547 491
+bowl 58 45 474 327
+broccoli 372 277 477 407
+carrot 141 139 252 240
+dining_table 1 0 640 533
+apple 150 202 378 342

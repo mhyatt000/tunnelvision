@@ -1,0 +1,6 @@
+refrigerator 4 63 79 631
+chair 47 375 125 528
+cup 352 323 370 354
+cup 309 322 317 335
+dining_table 44 368 108 427
+oven 347 417 435 630

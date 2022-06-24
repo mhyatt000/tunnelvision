@@ -1,0 +1,3 @@
+bicycle 107 226 282 500
+bicycle 0 250 86 494
+umbrella 21 0 332 106

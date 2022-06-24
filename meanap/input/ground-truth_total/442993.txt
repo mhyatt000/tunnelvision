@@ -1,0 +1,15 @@
+clock 136 140 155 156
+boat 228 469 301 483
+potted_plant 363 313 371 325
+potted_plant 339 314 361 329
+potted_plant 342 262 348 271
+potted_plant 361 259 370 270
+potted_plant 245 312 267 328
+potted_plant 177 307 211 322
+potted_plant 27 331 43 347
+potted_plant 332 262 342 271
+potted_plant 28 255 37 270
+boat 292 510 366 520
+boat 304 482 370 491
+boat 240 480 306 494
+boat 237 494 304 505

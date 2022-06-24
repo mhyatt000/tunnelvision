@@ -1,0 +1,8 @@
+cup 430 46 557 213
+cup 182 0 281 116
+spoon 85 151 139 164
+spoon 506 229 640 368
+bowl 270 0 512 96
+sandwich 322 37 452 80
+dining_table 1 1 639 421
+sandwich 94 145 321 296

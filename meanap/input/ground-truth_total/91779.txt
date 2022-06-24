@@ -1,0 +1,8 @@
+hot_dog 0 48 328 179
+bowl 574 75 640 151
+hot_dog 211 144 640 474
+hot_dog 102 100 477 326
+cup 406 1 499 98
+chair 20 0 115 97
+dining_table 1 275 177 473
+sandwich 108 99 461 326

@@ -1,0 +1,15 @@
+chair 547 202 640 327
+chair 0 213 136 398
+potted_plant 277 173 301 208
+potted_plant 320 178 347 206
+vase 201 184 216 210
+potted_plant 264 174 282 209
+couch 53 195 189 317
+couch 363 351 639 421
+potted_plant 189 151 228 210
+potted_plant 300 109 330 206
+potted_plant 295 178 312 209
+potted_plant 464 264 499 328
+chair 54 196 190 325
+chair 432 191 524 295
+person 448 190 515 267

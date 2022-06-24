@@ -1,0 +1,5 @@
+person 358 90 433 207
+person 589 65 640 242
+frisbee 415 48 444 56
+handbag 159 80 207 180
+person 456 76 543 238

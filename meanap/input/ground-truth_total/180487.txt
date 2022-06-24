@@ -1,0 +1,6 @@
+umbrella 50 58 292 193
+person 40 80 382 385
+person 549 122 640 350
+cup 416 295 488 344
+chair 132 361 228 427
+dining_table 207 337 640 421

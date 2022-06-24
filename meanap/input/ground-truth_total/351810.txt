@@ -1,0 +1,17 @@
+person 22 111 108 278
+backpack 97 160 255 310
+suitcase 5 169 92 369
+person 9 122 55 166
+person 0 48 44 174
+person 95 120 117 155
+suitcase 237 175 370 371
+suitcase 126 301 237 371
+potted_plant 100 145 141 198
+backpack 280 173 500 375
+backpack 255 145 327 204
+chair 65 274 107 305
+dining_table 12 190 35 200
+dining_table 0 171 58 295
+suitcase 88 323 111 374
+suitcase 192 156 283 245
+person 175 108 197 166

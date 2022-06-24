@@ -1,0 +1,6 @@
+umbrella 283 80 426 159
+person 255 150 382 411
+traffic_light 300 141 320 161
+traffic_light 176 30 202 68
+handbag 256 231 308 318
+person 358 120 427 313

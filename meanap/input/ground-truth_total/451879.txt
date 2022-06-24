@@ -1,0 +1,6 @@
+sports_ball 239 14 269 43
+person 0 88 299 431
+person 0 77 135 438
+person 355 0 481 282
+baseball_glove 43 128 122 187
+person 248 130 494 432

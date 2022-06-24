@@ -1,0 +1,3 @@
+person 239 150 466 618
+handbag 422 385 467 597
+refrigerator 210 209 311 614

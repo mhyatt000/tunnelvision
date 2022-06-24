@@ -1,0 +1,7 @@
+dining_table 0 249 640 480
+bicycle 596 33 640 69
+bicycle 495 51 534 71
+person 581 43 597 68
+person 570 46 582 67
+person 554 49 576 71
+vase 330 212 464 452

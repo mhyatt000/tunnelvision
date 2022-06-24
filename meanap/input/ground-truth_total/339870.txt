@@ -1,0 +1,6 @@
+truck 125 358 196 424
+traffic_light 418 265 445 301
+traffic_light 541 307 555 341
+traffic_light 449 395 466 416
+traffic_light 372 256 403 303
+traffic_light 607 345 617 361

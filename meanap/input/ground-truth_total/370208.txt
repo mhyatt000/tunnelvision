@@ -1,0 +1,4 @@
+bicycle 62 107 443 335
+person 0 194 48 261
+parking_meter 181 18 229 104
+parking_meter 217 18 272 104

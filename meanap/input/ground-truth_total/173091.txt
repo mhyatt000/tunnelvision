@@ -1,0 +1,4 @@
+bottle 335 48 556 453
+apple 185 353 329 473
+sandwich 39 84 327 447
+dining_table 9 10 599 603

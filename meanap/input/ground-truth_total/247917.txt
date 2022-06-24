@@ -1,0 +1,16 @@
+person 456 222 598 557
+person 386 214 483 557
+person 250 240 337 576
+person 149 238 262 588
+person 34 204 152 596
+person 307 199 359 312
+person 335 97 484 301
+baseball_glove 556 386 591 440
+baseball_glove 460 403 491 456
+baseball_glove 375 411 415 473
+baseball_glove 296 420 341 485
+baseball_glove 148 346 208 406
+baseball_glove 120 408 160 479
+person 328 241 414 572
+person 52 55 221 554
+person 162 206 255 327

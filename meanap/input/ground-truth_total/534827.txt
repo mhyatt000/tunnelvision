@@ -1,0 +1,10 @@
+motorcycle 300 297 556 444
+motorcycle 535 296 612 391
+motorcycle 296 288 376 374
+person 403 225 496 415
+person 108 225 192 381
+person 361 249 412 328
+person 586 277 612 333
+handbag 405 288 492 350
+motorcycle 18 280 265 410
+motorcycle 557 319 612 415

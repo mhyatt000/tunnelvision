@@ -1,0 +1,5 @@
+cell_phone 264 182 298 208
+person 246 25 439 462
+bench 32 188 292 522
+chair 28 189 313 506
+potted_plant 416 4 640 518

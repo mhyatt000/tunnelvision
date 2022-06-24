@@ -1,0 +1,7 @@
+couch 23 83 449 370
+person 32 47 500 375
+remote 242 58 285 99
+potted_plant 0 186 48 375
+cell_phone 444 150 494 188
+remote 356 20 388 84
+couch 387 27 499 231

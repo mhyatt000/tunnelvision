@@ -1,0 +1,9 @@
+potted_plant 2 91 165 411
+potted_plant 283 310 519 479
+potted_plant 145 23 278 197
+potted_plant 11 4 157 177
+potted_plant 332 71 398 137
+cat 103 322 206 468
+bench 193 147 468 382
+potted_plant 501 144 639 450
+potted_plant 405 26 500 161

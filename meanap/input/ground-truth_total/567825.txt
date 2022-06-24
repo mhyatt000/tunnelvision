@@ -1,0 +1,3 @@
+bottle 19 0 187 304
+sandwich 13 259 293 571
+wine_glass 237 7 389 358

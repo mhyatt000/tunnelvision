@@ -1,0 +1,5 @@
+parking_meter 225 75 294 159
+person 181 160 576 265
+bench 57 156 600 338
+backpack 82 187 233 237
+car 0 174 20 229

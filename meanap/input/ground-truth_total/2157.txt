@@ -1,0 +1,16 @@
+knife 214 285 328 401
+knife 403 211 515 283
+cake 16 173 269 366
+wine_glass 230 52 291 201
+wine_glass 138 27 200 169
+wine_glass 46 17 113 161
+wine_glass 91 87 157 171
+wine_glass 163 68 233 176
+wine_glass 113 15 166 92
+wine_glass 0 69 50 133
+wine_glass 50 60 110 154
+wine_glass 237 48 300 178
+cup 3 118 63 214
+cup 490 166 556 233
+dining_table 1 33 640 422
+knife 216 310 408 422

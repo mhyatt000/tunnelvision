@@ -1,0 +1,2 @@
+fire_hydrant 175 241 207 310
+stop_sign 526 88 585 139

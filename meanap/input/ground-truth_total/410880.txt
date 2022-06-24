@@ -1,0 +1,10 @@
+bench 0 203 77 369
+teddy_bear 88 75 320 374
+person 291 30 316 127
+car 266 62 298 86
+sports_ball 125 44 159 82
+sports_ball 84 39 119 75
+car 375 66 389 80
+car 102 65 139 100
+chair 303 184 314 212
+chair 155 220 310 350

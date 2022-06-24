@@ -1,0 +1,4 @@
+sandwich 39 176 351 344
+sandwich 466 130 639 240
+hot_dog 468 128 639 236
+hot_dog 46 175 346 319

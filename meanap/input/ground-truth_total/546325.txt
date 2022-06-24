@@ -1,0 +1,3 @@
+couch 0 267 480 612
+remote 118 547 216 635
+dining_table 1 511 306 640

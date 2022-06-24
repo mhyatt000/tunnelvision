@@ -1,0 +1,6 @@
+cell_phone 314 168 393 221
+cell_phone 238 170 327 234
+person 0 110 311 345
+person 195 2 455 112
+wine_glass 177 0 243 135
+person 305 53 635 427

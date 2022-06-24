@@ -1,0 +1,9 @@
+person 117 2 236 226
+person 67 1 100 44
+bench 315 74 391 147
+bench 404 245 500 329
+skateboard 177 195 229 236
+bench 314 36 331 61
+backpack 310 62 340 117
+person 186 0 210 49
+person 244 0 322 153

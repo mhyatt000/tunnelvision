@@ -1,0 +1,16 @@
+baseball_bat 370 245 585 344
+baseball_bat 366 290 572 384
+baseball_bat 389 232 605 319
+baseball_bat 66 212 420 334
+baseball_bat 319 421 519 560
+baseball_bat 327 436 541 593
+baseball_bat 37 260 276 506
+baseball_bat 46 6 362 75
+baseball_bat 73 102 393 178
+baseball_bat 56 128 409 214
+vase 511 57 581 152
+baseball_bat 56 37 385 102
+chair 6 14 612 610
+baseball_bat 373 322 560 415
+baseball_bat 58 61 399 137
+baseball_bat 6 62 599 601

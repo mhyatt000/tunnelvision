@@ -1,0 +1,9 @@
+sandwich 22 67 432 411
+spoon 0 0 69 39
+bowl 15 24 178 114
+chair 602 27 640 157
+chair 395 0 473 69
+chair 475 4 533 79
+chair 530 1 561 64
+chair 276 0 387 97
+sandwich 352 47 606 341

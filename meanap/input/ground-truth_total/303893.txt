@@ -1,0 +1,6 @@
+sandwich 389 186 444 222
+sandwich 231 261 286 279
+person 87 46 328 410
+person 306 90 535 373
+bench 617 32 640 55
+bench 460 18 613 68

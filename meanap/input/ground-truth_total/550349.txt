@@ -1,0 +1,9 @@
+bus 100 134 480 548
+person 0 335 80 549
+person 40 334 95 516
+person 3 324 68 640
+handbag 76 367 101 430
+person 223 296 298 383
+person 354 291 427 375
+umbrella 28 506 52 637
+traffic_light 247 312 265 337

@@ -1,0 +1,5 @@
+cell_phone 62 94 591 397
+person 0 23 269 480
+person 452 8 540 108
+person 536 44 583 103
+chair 587 104 639 169

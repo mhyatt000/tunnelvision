@@ -1,0 +1,10 @@
+person 142 0 197 77
+person 105 2 132 86
+suitcase 275 218 493 307
+suitcase 209 58 434 179
+suitcase 150 89 232 160
+suitcase 145 157 235 224
+suitcase 134 220 234 292
+suitcase 275 137 485 221
+suitcase 230 171 280 298
+suitcase 103 166 170 336

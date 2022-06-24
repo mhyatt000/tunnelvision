@@ -1,0 +1,8 @@
+bottle 0 1 78 181
+sandwich 110 125 422 349
+wine_glass 332 0 437 157
+wine_glass 597 2 640 177
+wine_glass 290 0 373 116
+bowl 398 150 574 291
+fork 10 241 257 326
+knife 201 321 255 421

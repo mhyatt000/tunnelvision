@@ -1,0 +1,5 @@
+potted_plant 17 99 220 290
+potted_plant 544 188 601 264
+couch 298 233 640 457
+book 14 314 48 381
+book 0 295 37 389

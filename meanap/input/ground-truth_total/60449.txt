@@ -1,0 +1,5 @@
+dining_table 0 420 261 493
+laptop 42 342 260 470
+chair 0 521 41 640
+couch 362 534 480 640
+chair 363 510 479 640

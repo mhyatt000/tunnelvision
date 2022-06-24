@@ -1,0 +1,15 @@
+person 194 38 396 368
+person 223 2 500 369
+hot_dog 256 206 300 230
+handbag 71 60 225 138
+person 378 0 472 152
+person 345 0 378 82
+bench 365 95 500 192
+dining_table 0 257 283 374
+bottle 135 167 206 318
+chair 52 1 96 58
+chair 0 0 49 56
+bench 48 18 103 59
+backpack 395 23 436 74
+dining_table 400 49 436 69
+dining_table 228 14 288 28

@@ -1,0 +1,8 @@
+mouse 436 48 640 150
+remote 256 46 478 109
+keyboard 0 37 209 142
+sandwich 346 174 640 338
+sandwich 70 132 349 216
+sandwich 308 100 582 208
+sandwich 0 233 508 480
+sandwich 0 190 111 273

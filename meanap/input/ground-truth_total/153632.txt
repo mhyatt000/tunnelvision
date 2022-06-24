@@ -1,0 +1,4 @@
+fork 1 123 23 201
+knife 13 3 328 190
+bowl 43 0 217 49
+dining_table 0 2 638 471

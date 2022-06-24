@@ -1,0 +1,6 @@
+person 187 99 432 632
+person 60 82 223 418
+person 5 240 57 308
+handbag 257 218 366 483
+suitcase 1 399 279 632
+handbag 8 172 128 404

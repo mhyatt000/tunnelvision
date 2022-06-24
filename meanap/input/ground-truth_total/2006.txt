@@ -1,0 +1,8 @@
+bus 46 80 609 426
+person 313 189 377 256
+person 5 252 50 361
+tie 334 218 347 234
+tie 27 272 32 304
+person 9 51 33 76
+traffic_light 55 0 69 31
+traffic_light 121 65 127 76

@@ -1,0 +1,3 @@
+person 340 0 640 478
+tennis_racket 284 74 502 473
+teddy_bear 1 2 370 468

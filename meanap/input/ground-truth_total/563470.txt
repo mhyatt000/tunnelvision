@@ -1,0 +1,4 @@
+baseball_bat 104 190 117 337
+person 86 94 216 323
+chair 1 8 41 24
+chair 10 11 57 100

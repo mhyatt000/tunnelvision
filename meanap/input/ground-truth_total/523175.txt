@@ -1,0 +1,6 @@
+spoon 72 72 473 309
+carrot 130 210 198 263
+carrot 275 269 346 328
+bowl 1 0 495 370
+carrot 341 186 372 236
+dining_table 0 1 500 251

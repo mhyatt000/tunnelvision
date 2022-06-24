@@ -1,0 +1,4 @@
+sandwich 320 110 595 429
+sandwich 64 2 418 390
+knife 542 53 640 142
+dining_table 0 1 640 474

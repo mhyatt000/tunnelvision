@@ -1,0 +1,10 @@
+potted_plant 314 261 385 361
+microwave 52 149 137 265
+oven 18 367 193 618
+knife 1 336 31 365
+vase 348 334 370 366
+knife 7 371 34 391
+knife 7 342 37 371
+knife 14 351 38 376
+sink 391 361 427 373
+refrigerator 249 384 388 551

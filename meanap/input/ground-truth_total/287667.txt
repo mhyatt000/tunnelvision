@@ -1,0 +1,5 @@
+dining_table 0 0 640 480
+knife 235 26 318 104
+carrot 422 191 613 265
+carrot 293 189 475 327
+book 0 313 80 475

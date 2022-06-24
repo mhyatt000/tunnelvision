@@ -1,0 +1,6 @@
+cell_phone 510 225 527 251
+chair 292 216 629 468
+person 165 148 576 476
+laptop 112 181 242 283
+potted_plant 75 174 119 237
+dining_table 0 166 265 480

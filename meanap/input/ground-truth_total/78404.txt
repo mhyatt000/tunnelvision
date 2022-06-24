@@ -1,0 +1,6 @@
+person 218 9 405 306
+person 167 1 280 305
+bench 73 138 386 330
+person 128 14 206 142
+handbag 292 258 358 321
+handbag 382 283 438 322

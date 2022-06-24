@@ -1,0 +1,5 @@
+person 198 4 500 369
+mouse 18 215 82 252
+sandwich 205 178 294 235
+bottle 112 103 160 216
+sandwich 155 177 242 233

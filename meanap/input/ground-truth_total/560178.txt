@@ -1,0 +1,4 @@
+person 0 76 279 474
+carrot 232 162 416 299
+broccoli 271 47 376 138
+broccoli 363 41 571 175

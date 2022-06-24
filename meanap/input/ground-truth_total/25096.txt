@@ -1,0 +1,6 @@
+person 1 37 212 328
+knife 39 310 143 386
+zebra 224 471 274 500
+skateboard 101 277 326 409
+chair 0 213 33 252
+dining_table 0 232 375 500

@@ -1,0 +1,13 @@
+umbrella 326 223 391 474
+umbrella 393 232 465 472
+umbrella 560 237 608 362
+umbrella 503 258 579 457
+umbrella 454 277 484 395
+umbrella 261 284 301 413
+umbrella 49 285 86 347
+umbrella 173 286 202 480
+umbrella 124 278 163 389
+umbrella 316 266 338 402
+umbrella 201 271 251 395
+chair 463 414 640 480
+umbrella 1 305 15 375

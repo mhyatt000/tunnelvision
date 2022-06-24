@@ -1,0 +1,6 @@
+car 0 0 362 198
+person 307 68 425 384
+skateboard 292 312 406 419
+bicycle 406 13 595 203
+bicycle 549 16 640 150
+car 407 0 640 120

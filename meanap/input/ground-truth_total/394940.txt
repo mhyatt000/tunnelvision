@@ -1,0 +1,4 @@
+knife 41 440 339 518
+cake 207 438 311 502
+dining_table 1 402 426 632
+person 0 77 425 490

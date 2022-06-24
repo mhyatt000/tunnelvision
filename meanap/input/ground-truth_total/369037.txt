@@ -1,0 +1,4 @@
+person 133 230 425 640
+elephant 0 0 425 632
+handbag 258 339 367 633
+bottle 39 547 55 598

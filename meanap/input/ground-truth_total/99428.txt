@@ -1,0 +1,5 @@
+cell_phone 25 44 589 250
+cell_phone 33 168 587 360
+cell_phone 75 260 574 419
+laptop 30 0 640 478
+remote 28 46 585 248

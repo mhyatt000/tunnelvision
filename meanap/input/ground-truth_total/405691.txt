@@ -1,0 +1,13 @@
+bottle 353 13 441 309
+bottle 195 22 257 216
+dining_table 2 28 637 427
+wine_glass 265 138 369 379
+wine_glass 455 226 575 427
+wine_glass 110 54 203 258
+fork 436 379 561 422
+fork 439 407 474 427
+spoon 67 414 142 426
+bowl 0 176 35 247
+bowl 542 269 639 383
+potted_plant 290 0 542 189
+vase 318 79 495 185

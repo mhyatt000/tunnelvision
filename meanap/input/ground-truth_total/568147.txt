@@ -1,0 +1,7 @@
+parking_meter 147 28 356 436
+person 0 31 36 67
+person 383 0 414 34
+car 373 0 480 24
+car 316 0 347 28
+person 238 0 253 28
+person 225 0 238 29

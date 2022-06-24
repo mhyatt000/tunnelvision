@@ -1,0 +1,9 @@
+traffic_light 616 119 622 135
+skateboard 296 190 370 228
+skateboard 464 240 514 277
+truck 506 171 523 185
+skateboard 553 304 599 332
+person 487 106 640 312
+traffic_light 609 94 621 114
+traffic_light 490 149 498 156
+person 296 35 398 182

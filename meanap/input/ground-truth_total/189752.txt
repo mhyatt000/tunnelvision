@@ -1,0 +1,13 @@
+dining_table 0 194 640 480
+person 99 1 174 107
+person 0 0 97 114
+fork 249 101 322 228
+knife 76 343 501 444
+pizza 351 214 633 358
+pizza 298 195 436 245
+person 142 0 638 240
+cup 505 60 620 223
+cup 43 62 80 125
+dining_table 0 104 157 155
+chair 0 213 212 252
+wine_glass 500 63 621 227

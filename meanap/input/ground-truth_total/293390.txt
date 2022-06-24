@@ -1,0 +1,5 @@
+bottle 392 21 419 90
+toothbrush 457 8 469 44
+toothbrush 469 9 477 45
+toothbrush 494 11 502 49
+sink 192 84 385 138

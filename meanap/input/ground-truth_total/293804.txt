@@ -1,0 +1,6 @@
+potted_plant 289 179 312 236
+potted_plant 96 159 131 189
+couch 2 186 206 327
+couch 259 189 499 333
+vase 295 207 315 237
+chair 259 185 499 328

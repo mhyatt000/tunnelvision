@@ -1,0 +1,5 @@
+baseball_bat 119 18 189 141
+baseball_glove 135 293 182 344
+person 50 211 165 351
+person 166 316 182 343
+person 149 69 303 354

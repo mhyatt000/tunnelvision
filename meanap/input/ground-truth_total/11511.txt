@@ -1,0 +1,10 @@
+person 90 38 130 190
+person 139 32 189 172
+person 35 44 85 190
+bench 37 227 315 415
+handbag 286 348 398 433
+handbag 448 260 516 364
+motorcycle 483 50 530 100
+handbag 24 95 48 149
+handbag 90 78 101 104
+person 1 51 62 214

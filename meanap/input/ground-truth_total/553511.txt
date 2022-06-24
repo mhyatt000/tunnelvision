@@ -1,0 +1,15 @@
+car 48 260 190 319
+car 183 269 231 307
+car 324 265 384 296
+traffic_light 269 182 275 201
+traffic_light 319 181 327 199
+traffic_light 83 27 105 75
+fire_hydrant 397 296 416 333
+person 439 259 459 295
+person 97 270 113 282
+car 321 260 331 269
+car 454 255 500 266
+traffic_light 430 235 438 244
+traffic_light 112 189 125 216
+traffic_light 45 166 54 189
+traffic_light 0 153 6 188

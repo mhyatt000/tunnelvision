@@ -1,0 +1,6 @@
+potted_plant 2 28 271 343
+vase 65 192 198 337
+teddy_bear 154 153 359 371
+person 374 206 453 346
+person 430 205 539 350
+bench 0 315 640 431

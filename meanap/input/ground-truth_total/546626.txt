@@ -1,0 +1,4 @@
+bottle 53 22 112 200
+dining_table 0 65 300 396
+cell_phone 131 177 223 250
+cup 109 78 210 183

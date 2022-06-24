@@ -1,0 +1,5 @@
+traffic_light 578 344 602 375
+traffic_light 532 136 555 194
+traffic_light 478 344 486 351
+car 508 408 545 425
+person 104 408 112 418

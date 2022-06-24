@@ -1,0 +1,17 @@
+tv 110 236 190 286
+couch 382 236 640 479
+wine_glass 325 190 332 205
+wine_glass 293 191 304 207
+wine_glass 304 189 314 206
+book 1 259 39 264
+book 2 265 14 272
+wine_glass 281 190 291 204
+book 33 241 57 245
+book 56 236 84 250
+book 0 234 21 251
+wine_glass 320 190 326 206
+wine_glass 270 191 280 205
+wine_glass 314 190 322 203
+book 18 249 72 261
+book 27 232 34 242
+dining_table 0 232 93 309

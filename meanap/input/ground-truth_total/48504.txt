@@ -1,0 +1,6 @@
+person 528 267 585 404
+bench 0 201 152 211
+bench 0 178 212 188
+elephant 197 202 369 405
+elephant 352 230 531 415
+person 15 250 49 302

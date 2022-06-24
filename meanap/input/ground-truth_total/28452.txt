@@ -1,0 +1,2 @@
+bottle 281 162 308 241
+refrigerator 1 38 480 632

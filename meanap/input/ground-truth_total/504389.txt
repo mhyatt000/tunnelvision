@@ -1,0 +1,4 @@
+person 399 73 466 239
+person 42 91 103 203
+tennis_racket 367 134 426 153
+tennis_racket 100 123 134 138

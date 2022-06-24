@@ -1,0 +1,17 @@
+umbrella 99 24 264 82
+umbrella 5 54 102 166
+umbrella 0 31 58 83
+umbrella 131 20 202 87
+person 135 73 326 329
+bench 80 186 148 258
+hot_dog 255 208 321 261
+bench 0 201 70 244
+bench 0 153 102 171
+potted_plant 287 172 394 299
+dining_table 0 165 28 212
+dining_table 123 167 168 222
+dining_table 147 140 166 159
+dining_table 22 135 86 150
+bench 126 156 139 168
+bench 123 167 166 186
+person 369 93 424 243

@@ -1,0 +1,8 @@
+person 251 159 544 473
+remote 484 394 538 439
+remote 78 198 186 353
+bottle 574 138 602 243
+potted_plant 533 72 640 240
+person 1 28 308 473
+wine_glass 526 429 599 480
+couch 399 315 516 405

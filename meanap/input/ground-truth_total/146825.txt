@@ -1,0 +1,10 @@
+train 51 80 637 277
+person 55 147 65 194
+person 11 145 31 203
+person 38 152 56 204
+person 62 143 67 163
+person 25 138 46 200
+person 47 142 59 182
+clock 315 17 347 58
+handbag 12 158 32 183
+handbag 56 165 63 175

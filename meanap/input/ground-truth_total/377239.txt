@@ -1,0 +1,6 @@
+bottle 402 340 446 408
+umbrella 315 26 640 407
+person 266 158 549 419
+person 80 166 157 395
+handbag 507 386 552 427
+person 0 159 61 427

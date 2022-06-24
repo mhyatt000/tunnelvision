@@ -1,0 +1,8 @@
+truck 140 135 544 385
+truck 1 205 153 298
+traffic_light 368 117 381 144
+traffic_light 541 171 551 189
+person 576 237 640 392
+backpack 598 257 639 295
+person 553 221 575 279
+traffic_light 434 179 440 191

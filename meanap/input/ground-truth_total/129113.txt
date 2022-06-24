@@ -1,0 +1,2 @@
+dining_table 0 2 640 475
+spoon 22 151 611 309

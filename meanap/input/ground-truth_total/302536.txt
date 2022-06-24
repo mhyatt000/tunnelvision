@@ -1,0 +1,10 @@
+couch 227 210 341 344
+sports_ball 111 178 117 183
+sports_ball 116 172 121 177
+person 114 33 305 371
+remote 282 190 300 202
+sports_ball 106 183 113 188
+sports_ball 101 175 106 179
+sports_ball 107 172 112 176
+sports_ball 84 177 90 183
+person 0 306 71 370

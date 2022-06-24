@@ -1,0 +1,7 @@
+dog 0 116 215 391
+person 106 0 189 81
+person 274 0 373 81
+person 54 0 96 28
+frisbee 159 153 229 190
+person 84 29 135 74
+person 162 0 204 84

@@ -1,0 +1,7 @@
+fork 362 3 500 209
+carrot 26 100 85 155
+carrot 1 145 49 220
+carrot 6 81 61 116
+carrot 0 26 66 152
+carrot 80 80 143 146
+carrot 37 135 100 185

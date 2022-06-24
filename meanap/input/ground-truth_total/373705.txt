@@ -1,0 +1,7 @@
+person 492 65 579 210
+person 206 129 250 202
+person 94 85 136 201
+person 130 154 166 204
+person 0 159 10 186
+person 620 135 639 208
+fire_hydrant 365 165 555 424

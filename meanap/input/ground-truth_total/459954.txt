@@ -1,0 +1,10 @@
+refrigerator 264 133 373 279
+person 242 148 274 291
+refrigerator 187 147 244 325
+refrigerator 255 255 360 369
+refrigerator 366 45 500 208
+refrigerator 198 286 328 375
+refrigerator 0 106 200 328
+refrigerator 17 254 189 369
+refrigerator 196 97 268 135
+refrigerator 354 201 476 375

@@ -1,0 +1,6 @@
+person 320 14 464 324
+person 277 9 432 313
+person 141 10 245 312
+baseball_bat 75 61 156 140
+baseball_bat 307 200 312 212
+baseball_bat 425 106 453 139

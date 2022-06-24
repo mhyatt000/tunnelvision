@@ -1,0 +1,7 @@
+dining_table 0 133 375 492
+person 0 0 46 56
+person 8 0 52 43
+wine_glass 151 43 240 243
+wine_glass 4 42 112 287
+wine_glass 271 40 363 235
+fork 117 235 322 325

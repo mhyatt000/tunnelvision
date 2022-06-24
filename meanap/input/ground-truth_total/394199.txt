@@ -1,0 +1,2 @@
+motorcycle 52 124 373 480
+person 328 35 640 480

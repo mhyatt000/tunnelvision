@@ -1,0 +1,4 @@
+cell_phone 359 234 440 303
+person 111 2 500 330
+laptop 0 169 195 325
+bottle 2 60 47 175

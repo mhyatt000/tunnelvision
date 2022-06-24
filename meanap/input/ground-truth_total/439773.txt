@@ -1,0 +1,3 @@
+person 190 8 640 299
+teddy_bear 1 9 208 183
+cell_phone 239 331 409 442

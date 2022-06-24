@@ -1,0 +1,2 @@
+banana 201 30 544 360
+dining_table 3 3 640 420

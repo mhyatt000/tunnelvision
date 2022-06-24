@@ -1,0 +1,6 @@
+person 40 125 148 453
+person 43 0 78 111
+person 308 5 331 114
+frisbee 162 440 221 452
+frisbee 168 431 226 445
+frisbee 84 87 155 126

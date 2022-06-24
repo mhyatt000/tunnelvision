@@ -1,0 +1,8 @@
+bench 432 229 529 318
+bench 179 249 318 307
+dining_table 252 181 476 248
+dining_table 594 78 624 83
+bench 481 80 538 84
+bench 585 89 609 94
+dining_table 484 75 538 93
+dining_table 626 68 638 70

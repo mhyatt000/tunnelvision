@@ -1,0 +1,6 @@
+bottle 46 252 122 367
+bottle 32 86 86 219
+bottle 2 273 92 414
+refrigerator 236 113 408 341
+bottle 1 76 39 241
+bottle 98 378 152 425

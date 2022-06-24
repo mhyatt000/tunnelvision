@@ -1,0 +1,6 @@
+person 238 48 636 472
+person 24 104 117 311
+banana 0 262 79 348
+carrot 50 428 79 465
+carrot 74 407 148 440
+carrot 0 401 288 480

@@ -1,0 +1,10 @@
+car 301 247 374 263
+traffic_light 303 172 312 192
+traffic_light 395 226 404 245
+traffic_light 396 249 404 256
+parking_meter 182 228 260 403
+parking_meter 133 238 184 334
+parking_meter 418 202 639 471
+parking_meter 103 238 118 283
+parking_meter 111 238 135 290
+motorcycle 361 249 402 264

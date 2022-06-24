@@ -1,0 +1,11 @@
+couch 174 115 375 225
+chair 260 222 350 308
+couch 58 142 191 220
+dining_table 1 309 375 490
+person 20 193 309 333
+knife 101 366 235 403
+cake 122 321 211 381
+chair 48 221 134 272
+potted_plant 131 24 209 156
+potted_plant 295 5 374 138
+potted_plant 227 35 255 70

@@ -1,0 +1,2 @@
+refrigerator 169 34 442 549
+person 228 110 367 601

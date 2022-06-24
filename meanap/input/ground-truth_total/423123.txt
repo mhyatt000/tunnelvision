@@ -1,0 +1,7 @@
+cell_phone 308 245 342 256
+refrigerator 317 149 570 421
+person 36 88 388 421
+person 178 44 430 353
+backpack 0 82 303 299
+person 494 229 640 425
+person 0 0 50 141

@@ -1,0 +1,5 @@
+dining_table 2 67 580 418
+person 0 0 382 176
+cup 0 138 34 279
+bowl 328 75 404 126
+pizza 44 131 574 408

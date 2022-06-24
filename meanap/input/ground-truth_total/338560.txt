@@ -1,0 +1,12 @@
+car 56 165 137 200
+car 102 160 177 197
+car 0 166 58 205
+car 404 152 466 182
+car 35 164 83 184
+traffic_light 197 100 209 122
+traffic_light 263 120 274 141
+traffic_light 155 103 171 111
+traffic_light 205 101 221 109
+fire_hydrant 132 165 318 612
+traffic_light 108 59 135 70
+traffic_light 176 58 205 70

@@ -1,0 +1,7 @@
+person 101 90 212 486
+person 55 121 119 437
+person 0 113 31 462
+suitcase 55 352 111 431
+person 48 106 72 185
+train 202 44 332 160
+person 24 118 57 246

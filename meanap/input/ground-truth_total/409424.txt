@@ -1,0 +1,6 @@
+apple 314 278 415 376
+apple 58 349 139 442
+orange 259 364 396 480
+orange 43 263 121 359
+orange 393 331 461 398
+dining_table 1 57 480 631

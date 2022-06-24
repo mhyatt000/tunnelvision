@@ -1,0 +1,10 @@
+sheep 285 123 381 363
+person 280 0 376 142
+person 0 0 49 161
+person 123 0 285 391
+sheep 41 130 224 383
+sheep 97 411 476 630
+handbag 250 20 298 216
+person 369 73 477 494
+sheep 244 209 350 331
+handbag 5 0 28 31

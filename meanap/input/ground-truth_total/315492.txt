@@ -1,0 +1,4 @@
+person 160 148 334 460
+teddy_bear 18 358 144 512
+toilet 17 351 198 574
+teddy_bear 481 488 588 596

@@ -1,0 +1,9 @@
+cell_phone 301 118 328 149
+person 81 51 208 310
+person 241 27 468 327
+person 178 74 225 216
+apple 84 201 241 332
+handbag 209 143 298 332
+handbag 399 141 418 254
+suitcase 15 280 81 332
+bicycle 460 154 500 219

@@ -1,0 +1,3 @@
+umbrella 315 56 577 140
+bench 333 219 551 325
+dining_table 339 226 549 268

@@ -1,0 +1,9 @@
+cell_phone 325 229 402 302
+person 1 220 165 463
+tennis_racket 239 187 589 463
+laptop 165 0 408 233
+book 464 241 629 414
+handbag 404 0 639 192
+bottle 445 62 526 215
+cell_phone 404 195 507 266
+book 93 226 345 392

@@ -1,0 +1,2 @@
+microwave 2 1 640 480
+teddy_bear 119 19 315 262

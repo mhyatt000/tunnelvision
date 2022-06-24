@@ -1,0 +1,15 @@
+person 264 204 355 369
+umbrella 65 149 160 429
+umbrella 58 139 100 429
+umbrella 190 162 241 323
+umbrella 225 103 251 325
+umbrella 497 211 521 436
+umbrella 509 212 534 430
+umbrella 559 272 579 429
+umbrella 566 213 605 419
+umbrella 219 121 291 400
+umbrella 600 280 616 394
+umbrella 503 218 527 281
+umbrella 197 122 216 181
+umbrella 132 142 225 349
+umbrella 0 83 635 449

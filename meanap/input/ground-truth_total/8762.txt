@@ -1,0 +1,7 @@
+traffic_light 58 85 79 146
+traffic_light 163 106 186 144
+traffic_light 504 230 517 241
+traffic_light 495 178 515 220
+car 109 285 122 292
+car 0 279 27 302
+traffic_light 484 229 494 245

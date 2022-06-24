@@ -1,0 +1,6 @@
+bottle 605 222 614 254
+bottle 565 220 576 257
+bottle 613 225 623 252
+person 313 199 467 425
+baseball_bat 458 319 541 385
+sports_ball 548 173 576 203

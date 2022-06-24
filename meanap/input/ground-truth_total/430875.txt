@@ -1,0 +1,3 @@
+traffic_light 196 270 245 334
+traffic_light 372 275 404 338
+traffic_light 49 48 105 155

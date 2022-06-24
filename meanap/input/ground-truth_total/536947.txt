@@ -1,0 +1,6 @@
+refrigerator 292 133 410 350
+chair 80 231 143 332
+chair 1 253 28 320
+truck 532 202 640 263
+bottle 259 438 307 458
+bottle 173 370 194 388

@@ -1,0 +1,16 @@
+teddy_bear 212 232 232 252
+handbag 555 288 623 371
+teddy_bear 199 292 220 316
+teddy_bear 225 291 245 316
+teddy_bear 212 290 231 316
+teddy_bear 183 287 206 318
+teddy_bear 183 261 195 290
+teddy_bear 153 248 166 261
+teddy_bear 156 216 169 235
+teddy_bear 263 296 291 313
+teddy_bear 201 218 217 243
+teddy_bear 142 247 157 270
+teddy_bear 156 260 171 275
+teddy_bear 153 293 166 320
+person 526 249 637 479
+teddy_bear 136 73 481 319

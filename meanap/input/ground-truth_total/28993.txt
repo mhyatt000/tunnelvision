@@ -1,0 +1,15 @@
+fire_hydrant 288 220 450 603
+fire_hydrant 152 240 247 481
+traffic_light 95 225 102 233
+traffic_light 92 243 97 248
+traffic_light 54 239 61 246
+person 146 243 156 271
+person 62 245 73 273
+person 92 250 99 272
+person 98 248 107 272
+person 114 247 121 272
+person 134 244 145 272
+person 29 239 43 276
+person 54 253 62 271
+person 125 247 132 272
+fire_hydrant 238 237 330 537

@@ -1,0 +1,6 @@
+fire_hydrant 381 241 492 457
+person 135 5 339 450
+person 466 16 618 450
+person 56 70 172 449
+truck 5 259 47 274
+person 284 74 369 312

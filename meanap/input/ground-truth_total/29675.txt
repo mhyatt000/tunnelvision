@@ -1,0 +1,4 @@
+dining_table 5 0 478 273
+hot_dog 29 157 336 351
+hot_dog 79 225 394 474
+hot_dog 148 343 478 640

@@ -1,0 +1,4 @@
+dining_table 1 491 422 632
+dining_table 1 54 426 565
+cup 273 126 424 372
+donut 53 320 300 507

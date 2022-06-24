@@ -1,0 +1,6 @@
+bicycle 0 194 82 234
+person 363 108 436 291
+sports_ball 465 252 504 292
+person 133 69 206 228
+person 327 107 389 235
+person 0 318 188 361

@@ -1,0 +1,6 @@
+bowl 471 231 526 272
+teddy_bear 32 62 183 247
+teddy_bear 216 44 370 264
+teddy_bear 394 41 568 266
+teddy_bear 534 96 640 166
+truck 0 0 640 144

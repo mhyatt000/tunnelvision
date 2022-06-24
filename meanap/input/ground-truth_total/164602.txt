@@ -1,0 +1,6 @@
+toothbrush 243 164 289 187
+toothbrush 351 216 400 225
+person 10 68 480 474
+sink 1 305 87 373
+sink 462 358 551 426
+person 245 127 546 480

@@ -1,0 +1,3 @@
+cell_phone 158 24 305 347
+cell_phone 324 19 501 349
+dining_table 0 1 640 355

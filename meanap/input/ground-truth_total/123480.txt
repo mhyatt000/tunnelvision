@@ -1,0 +1,4 @@
+toothbrush 212 313 241 341
+toothbrush 278 374 296 386
+person 108 111 394 461
+cell_phone 146 182 172 264

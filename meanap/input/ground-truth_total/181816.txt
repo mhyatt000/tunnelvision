@@ -1,0 +1,11 @@
+car 275 63 637 177
+bench 116 211 549 411
+car 261 56 314 81
+potted_plant 152 34 229 143
+potted_plant 529 41 577 103
+potted_plant 607 29 640 118
+potted_plant 27 72 107 149
+person 7 27 27 86
+person 181 76 309 465
+person 115 27 129 68
+potted_plant 39 90 164 141

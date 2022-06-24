@@ -1,0 +1,7 @@
+couch 0 367 140 480
+person 95 3 374 473
+cell_phone 247 205 288 252
+cell_phone 156 171 203 231
+laptop 491 330 640 472
+laptop 0 388 118 441
+couch 0 206 368 427

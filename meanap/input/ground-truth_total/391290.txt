@@ -1,0 +1,6 @@
+car 123 48 235 99
+person 223 84 351 289
+person 292 66 411 291
+person 206 38 275 207
+frisbee 427 141 468 160
+umbrella 0 22 86 56

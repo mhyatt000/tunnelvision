@@ -1,0 +1,5 @@
+traffic_light 259 193 372 295
+traffic_light 415 84 558 394
+traffic_light 151 299 370 399
+bus 0 384 142 479
+person 299 415 358 480

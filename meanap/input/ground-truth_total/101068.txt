@@ -1,0 +1,2 @@
+person 404 84 638 427
+baseball_bat 362 127 458 242

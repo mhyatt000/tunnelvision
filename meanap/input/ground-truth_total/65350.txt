@@ -1,0 +1,15 @@
+person 221 41 409 261
+person 462 30 632 266
+car 54 1 266 85
+car 0 0 63 66
+bicycle 286 23 347 85
+backpack 448 186 530 246
+skateboard 534 241 634 257
+person 528 71 637 258
+bicycle 219 3 392 88
+bicycle 464 0 596 94
+car 467 42 506 93
+backpack 529 218 560 245
+skateboard 193 153 298 229
+skateboard 468 253 610 286
+bicycle 596 0 640 97

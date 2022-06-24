@@ -1,0 +1,5 @@
+bottle 168 1 280 145
+fork 355 82 639 153
+bottle 294 0 371 162
+knife 430 58 640 370
+dining_table 0 147 80 321

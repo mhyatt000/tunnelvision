@@ -1,0 +1,14 @@
+potted_plant 164 107 245 298
+potted_plant 317 172 409 265
+potted_plant 436 109 499 194
+potted_plant 138 69 205 239
+potted_plant 321 90 357 171
+potted_plant 403 0 489 202
+potted_plant 240 51 285 144
+potted_plant 0 7 96 100
+potted_plant 272 107 319 145
+potted_plant 153 19 236 190
+dining_table 29 171 572 387
+potted_plant 362 15 424 182
+potted_plant 240 134 323 271
+potted_plant 396 187 499 262

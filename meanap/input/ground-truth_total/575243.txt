@@ -1,0 +1,10 @@
+umbrella 242 142 364 220
+car 524 128 640 362
+car 443 123 575 283
+car 377 142 427 231
+person 287 174 335 333
+traffic_light 436 79 443 94
+traffic_light 607 104 621 115
+traffic_light 355 70 367 84
+traffic_light 442 79 453 94
+traffic_light 265 111 273 120

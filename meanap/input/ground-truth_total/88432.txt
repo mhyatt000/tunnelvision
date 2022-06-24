@@ -1,0 +1,5 @@
+traffic_light 106 75 127 120
+traffic_light 169 78 195 125
+traffic_light 190 99 201 126
+fire_hydrant 130 446 222 603
+truck 6 266 303 400

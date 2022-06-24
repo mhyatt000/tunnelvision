@@ -1,0 +1,4 @@
+dog 151 336 364 508
+refrigerator 2 0 125 608
+chair 85 224 389 632
+dining_table 418 365 480 627

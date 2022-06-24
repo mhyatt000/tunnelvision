@@ -1,0 +1,5 @@
+dining_table 4 0 640 412
+bowl 132 24 266 123
+broccoli 160 145 263 225
+broccoli 68 133 252 299
+bowl 62 128 577 373

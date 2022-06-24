@@ -1,0 +1,9 @@
+person 259 0 328 88
+person 43 0 118 78
+tennis_racket 65 7 231 111
+bench 135 20 200 50
+chair 55 27 80 88
+person 0 0 69 90
+handbag 276 43 311 67
+person 182 0 271 88
+person 39 48 286 492

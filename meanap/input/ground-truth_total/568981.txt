@@ -1,0 +1,4 @@
+person 17 155 249 377
+skateboard 584 219 639 245
+backpack 107 314 179 369
+person 568 6 639 230

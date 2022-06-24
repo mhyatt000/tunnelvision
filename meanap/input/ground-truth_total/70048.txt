@@ -1,0 +1,6 @@
+sandwich 369 179 591 377
+wine_glass 286 0 397 211
+bowl 0 37 217 211
+dining_table 2 3 638 473
+cup 36 202 327 432
+bowl 37 203 329 428

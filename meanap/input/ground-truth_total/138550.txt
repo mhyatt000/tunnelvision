@@ -1,0 +1,4 @@
+chair 402 26 488 115
+chair 95 40 218 238
+fire_hydrant 264 121 368 343
+dining_table 167 45 317 243

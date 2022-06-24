@@ -1,0 +1,6 @@
+person 117 345 268 399
+fork 50 106 183 384
+pizza 0 0 495 368
+dining_table 0 0 500 399
+person 344 0 499 37
+knife 308 0 367 59

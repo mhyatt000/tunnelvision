@@ -1,0 +1,5 @@
+potted_plant 0 330 126 546
+potted_plant 231 0 471 282
+person 77 1 375 572
+vase 334 158 393 281
+vase 93 197 105 241

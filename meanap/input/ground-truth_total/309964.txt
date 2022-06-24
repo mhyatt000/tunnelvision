@@ -1,0 +1,5 @@
+umbrella 0 8 559 275
+car 542 93 640 231
+person 90 94 249 416
+person 340 95 524 421
+backpack 243 249 330 363

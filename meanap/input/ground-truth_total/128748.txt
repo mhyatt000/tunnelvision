@@ -1,0 +1,5 @@
+person 307 97 463 632
+baseball_bat 291 449 340 594
+baseball_glove 0 347 20 414
+person 156 44 355 590
+person 0 79 209 609

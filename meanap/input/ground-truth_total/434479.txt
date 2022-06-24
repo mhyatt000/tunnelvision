@@ -1,0 +1,4 @@
+pizza 10 85 234 244
+pizza 6 179 480 426
+dining_table 1 47 640 420
+chair 419 208 639 350

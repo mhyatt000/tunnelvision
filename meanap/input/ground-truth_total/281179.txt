@@ -1,0 +1,10 @@
+traffic_light 145 54 155 82
+traffic_light 163 35 171 56
+traffic_light 144 23 155 49
+fire_hydrant 240 126 252 147
+bench 620 136 640 173
+traffic_light 79 20 89 38
+traffic_light 76 54 88 79
+traffic_light 108 22 116 53
+traffic_light 111 3 128 22
+traffic_light 144 46 153 57

@@ -1,0 +1,10 @@
+fire_hydrant 446 0 616 286
+potted_plant 16 197 182 281
+potted_plant 179 184 335 269
+potted_plant 334 160 413 252
+potted_plant 396 159 472 228
+potted_plant 587 145 639 218
+potted_plant 311 81 405 164
+potted_plant 38 148 86 195
+potted_plant 96 45 127 108
+potted_plant 356 12 400 45

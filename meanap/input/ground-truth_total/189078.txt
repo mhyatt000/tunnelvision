@@ -1,0 +1,7 @@
+banana 20 66 173 152
+banana 59 44 180 89
+banana 21 74 198 205
+apple 335 7 477 199
+orange 252 119 355 220
+orange 183 47 267 134
+orange 261 60 350 137

@@ -1,0 +1,13 @@
+bottle 194 286 232 370
+chair 8 105 83 200
+chair 0 190 74 374
+dining_table 264 208 500 375
+person 196 33 330 270
+donut 237 288 270 312
+chair 175 262 212 292
+chair 0 83 9 108
+person 48 99 237 375
+dining_table 1 103 73 143
+donut 225 303 238 325
+chair 139 50 179 81
+chair 5 36 36 58

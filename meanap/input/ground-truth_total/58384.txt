@@ -1,0 +1,4 @@
+train 0 179 210 220
+elephant 328 179 383 269
+elephant 304 203 337 270
+elephant 272 187 314 270

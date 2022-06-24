@@ -1,0 +1,9 @@
+bicycle 422 240 448 281
+person 371 207 410 351
+cell_phone 374 243 380 248
+handbag 368 303 387 331
+traffic_light 433 127 445 151
+traffic_light 624 159 631 168
+person 624 223 638 260
+motorcycle 528 240 576 276
+traffic_light 283 185 290 195

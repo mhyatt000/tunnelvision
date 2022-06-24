@@ -1,0 +1,3 @@
+toothbrush 242 206 257 345
+toilet 57 169 450 640
+person 17 43 385 608

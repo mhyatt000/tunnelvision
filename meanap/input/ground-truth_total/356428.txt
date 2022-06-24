@@ -1,0 +1,13 @@
+person 460 27 500 160
+banana 56 183 138 243
+banana 63 225 180 281
+backpack 444 43 473 83
+banana 0 218 47 281
+banana 52 210 78 261
+banana 251 161 266 192
+person 421 20 482 151
+person 33 0 155 150
+person 474 42 481 53
+backpack 474 68 500 90
+banana 196 143 211 172
+banana 0 185 36 220

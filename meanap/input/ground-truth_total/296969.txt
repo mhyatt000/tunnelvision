@@ -1,0 +1,7 @@
+giraffe 422 73 553 318
+giraffe 317 208 435 317
+giraffe 129 29 323 323
+giraffe 363 70 618 320
+giraffe 617 202 640 313
+giraffe 58 296 173 324
+giraffe 610 59 639 131

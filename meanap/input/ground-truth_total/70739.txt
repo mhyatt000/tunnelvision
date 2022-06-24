@@ -1,0 +1,5 @@
+person 222 129 632 474
+person 0 0 567 473
+wine_glass 477 309 566 479
+wine_glass 538 285 637 480
+person 596 204 639 353

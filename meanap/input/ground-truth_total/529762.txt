@@ -1,0 +1,7 @@
+sandwich 284 325 348 397
+dining_table 1 269 640 480
+person 236 58 640 474
+wine_glass 409 166 510 394
+bowl 140 330 327 461
+cell_phone 220 262 307 306
+book 0 310 211 371

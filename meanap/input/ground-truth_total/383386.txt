@@ -1,0 +1,4 @@
+teddy_bear 63 72 277 422
+teddy_bear 178 63 425 477
+teddy_bear 356 124 583 455
+chair 0 0 93 304

@@ -1,0 +1,5 @@
+dining_table 0 1 640 640
+knife 1 0 121 257
+spoon 0 327 41 362
+orange 296 244 403 344
+orange 249 246 299 327

@@ -1,0 +1,7 @@
+dining_table 1 187 457 419
+person 276 7 573 426
+spoon 387 181 431 361
+cake 115 240 200 364
+person 538 0 640 417
+person 0 40 69 208
+cup 0 191 80 322

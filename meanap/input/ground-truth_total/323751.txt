@@ -1,0 +1,9 @@
+train 119 114 484 368
+traffic_light 476 95 482 112
+traffic_light 572 105 578 115
+person 552 208 568 280
+bench 545 396 574 424
+person 208 247 232 268
+traffic_light 571 95 576 105
+tie 217 259 222 269
+train 468 108 503 128

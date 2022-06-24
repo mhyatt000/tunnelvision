@@ -1,0 +1,10 @@
+car 136 163 176 180
+person 430 163 490 264
+person 522 129 613 310
+baseball_glove 276 117 320 154
+baseball_glove 574 181 598 203
+baseball_glove 478 216 493 227
+car 408 165 425 179
+motorcycle 121 168 145 180
+truck 121 148 187 180
+person 276 116 404 384

@@ -1,0 +1,3 @@
+cell_phone 126 365 168 395
+person 143 9 585 422
+person 49 5 357 420

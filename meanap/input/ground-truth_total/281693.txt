@@ -1,0 +1,6 @@
+airplane 60 58 604 294
+truck 360 280 462 337
+airplane 0 136 164 308
+airplane 557 254 640 335
+airplane 580 135 639 207
+truck 31 280 81 313

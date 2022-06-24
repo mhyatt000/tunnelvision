@@ -1,0 +1,6 @@
+dining_table 2 298 606 572
+person 223 10 522 374
+wine_glass 254 101 331 382
+wine_glass 533 139 595 343
+pizza 57 395 505 538
+pizza 11 481 565 602

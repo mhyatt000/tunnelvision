@@ -1,0 +1,13 @@
+person 97 104 266 556
+person 268 165 354 441
+skateboard 79 496 319 607
+backpack 141 155 196 283
+umbrella 249 0 427 98
+umbrella 8 3 291 55
+handbag 328 251 349 275
+bowl 70 113 106 143
+hot_dog 79 201 119 222
+hot_dog 80 224 121 245
+bowl 78 328 128 362
+hot_dog 82 245 124 268
+person 393 181 427 382

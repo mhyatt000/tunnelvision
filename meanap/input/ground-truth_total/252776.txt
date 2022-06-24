@@ -1,0 +1,5 @@
+person 74 55 358 640
+person 0 133 83 615
+tennis_racket 164 531 185 554
+person 63 0 148 44
+bench 49 357 159 559

@@ -1,0 +1,2 @@
+parking_meter 163 36 298 239
+potted_plant 169 251 220 499

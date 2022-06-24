@@ -1,0 +1,11 @@
+dining_table 0 0 640 480
+broccoli 241 164 389 286
+broccoli 177 151 288 243
+broccoli 299 34 361 83
+broccoli 588 197 640 291
+broccoli 136 96 163 129
+broccoli 224 310 329 393
+broccoli 0 251 50 329
+broccoli 14 106 93 188
+spoon 2 111 141 132
+broccoli 418 154 465 177

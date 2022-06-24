@@ -1,0 +1,4 @@
+person 55 12 524 613
+potted_plant 509 85 638 199
+remote 373 350 459 549
+remote 444 343 543 503

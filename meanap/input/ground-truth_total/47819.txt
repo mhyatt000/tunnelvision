@@ -1,0 +1,4 @@
+horse 128 91 479 329
+suitcase 217 101 297 150
+suitcase 223 62 314 123
+person 41 83 117 307

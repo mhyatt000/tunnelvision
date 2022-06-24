@@ -1,0 +1,9 @@
+bottle 68 0 160 81
+sandwich 193 305 324 450
+fork 258 15 379 198
+knife 389 182 457 452
+broccoli 250 195 306 259
+broccoli 79 192 286 400
+dining_table 2 1 478 631
+chair 0 533 409 640
+sandwich 286 202 361 363

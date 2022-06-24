@@ -1,0 +1,6 @@
+fork 215 429 359 640
+bowl 28 61 339 468
+broccoli 263 196 338 288
+broccoli 261 128 320 180
+carrot 235 140 310 206
+dining_table 0 0 427 640

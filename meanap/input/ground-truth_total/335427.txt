@@ -1,0 +1,10 @@
+fork 45 116 280 442
+spoon 4 141 241 442
+broccoli 436 79 621 255
+broccoli 450 208 531 309
+broccoli 367 218 453 303
+broccoli 310 9 530 202
+broccoli 521 39 577 93
+broccoli 296 161 360 211
+bowl 234 4 630 356
+broccoli 355 91 460 229

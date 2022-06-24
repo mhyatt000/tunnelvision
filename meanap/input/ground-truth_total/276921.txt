@@ -1,0 +1,2 @@
+teddy_bear 199 226 372 606
+teddy_bear 40 199 243 524

@@ -1,0 +1,2 @@
+parking_meter 24 170 210 592
+bench 0 410 62 571

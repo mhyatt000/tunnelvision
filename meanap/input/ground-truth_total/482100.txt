@@ -1,0 +1,7 @@
+potted_plant 245 4 281 51
+potted_plant 270 0 322 29
+potted_plant 158 0 210 34
+toilet 421 148 577 321
+toilet 250 165 427 320
+potted_plant 338 0 379 39
+potted_plant 387 0 443 39

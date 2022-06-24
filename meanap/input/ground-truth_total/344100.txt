@@ -1,0 +1,5 @@
+sandwich 393 188 501 299
+spoon 142 107 172 163
+laptop 0 0 75 111
+cup 86 132 169 247
+dining_table 0 2 640 421

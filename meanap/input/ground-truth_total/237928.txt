@@ -1,0 +1,4 @@
+refrigerator 286 88 432 532
+microwave 76 238 203 312
+oven 1 322 90 368
+oven 1 344 115 592

@@ -1,0 +1,15 @@
+person 31 39 266 608
+person 274 80 493 533
+remote 153 159 192 228
+person 173 64 222 130
+person 57 42 90 87
+wine_glass 311 122 322 144
+wine_glass 203 130 212 148
+wine_glass 214 129 223 149
+wine_glass 303 115 317 143
+remote 360 141 375 188
+remote 240 105 255 131
+remote 449 161 466 181
+person 0 35 31 232
+dining_table 160 115 237 150
+dining_table 270 137 338 147

@@ -1,0 +1,14 @@
+cell_phone 166 253 187 262
+cell_phone 66 208 84 225
+cell_phone 440 297 483 315
+cell_phone 291 198 597 289
+cell_phone 291 200 295 207
+person 256 168 375 421
+person 376 158 535 420
+person 116 168 260 422
+person 0 151 160 427
+person 0 148 43 338
+person 521 191 640 423
+handbag 265 306 358 338
+handbag 117 279 250 337
+handbag 522 304 628 344

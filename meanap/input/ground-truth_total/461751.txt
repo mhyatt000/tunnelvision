@@ -1,0 +1,6 @@
+car 3 31 640 382
+motorcycle 1 202 640 569
+person 47 112 339 477
+backpack 1 193 167 371
+person 268 94 475 218
+person 464 120 640 569

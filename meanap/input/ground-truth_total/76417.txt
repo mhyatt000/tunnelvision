@@ -1,0 +1,5 @@
+dog 275 143 422 306
+car 190 153 640 469
+traffic_light 439 27 505 159
+traffic_light 6 2 70 127
+truck 185 154 640 472

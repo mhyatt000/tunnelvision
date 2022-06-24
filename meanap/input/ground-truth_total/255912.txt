@@ -1,0 +1,5 @@
+sandwich 296 63 573 296
+sandwich 291 14 563 133
+dining_table 0 1 640 355
+broccoli 153 212 283 312
+bottle 556 0 640 99

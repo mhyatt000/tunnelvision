@@ -1,0 +1,4 @@
+person 0 1 97 139
+pizza 0 121 330 297
+bottle 148 60 199 110
+dining_table 0 244 332 397

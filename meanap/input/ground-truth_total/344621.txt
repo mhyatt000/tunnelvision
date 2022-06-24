@@ -1,0 +1,7 @@
+couch 246 152 467 296
+remote 296 235 316 245
+book 238 241 293 264
+chair 142 137 219 229
+potted_plant 0 80 30 157
+potted_plant 365 91 402 123
+potted_plant 0 169 35 245

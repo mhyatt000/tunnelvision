@@ -1,0 +1,3 @@
+sandwich 30 87 407 385
+apple 202 34 404 139
+dining_table 21 362 507 505

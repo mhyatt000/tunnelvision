@@ -1,0 +1,4 @@
+person 4 96 435 432
+laptop 228 302 628 478
+suitcase 0 44 245 180
+suitcase 296 206 538 284

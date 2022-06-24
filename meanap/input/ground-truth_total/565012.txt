@@ -1,0 +1,10 @@
+car 152 195 172 208
+traffic_light 323 209 338 247
+truck 537 196 583 232
+truck 152 195 171 209
+traffic_light 333 151 348 187
+traffic_light 295 144 316 194
+traffic_light 298 209 310 241
+car 395 175 402 181
+car 346 178 360 186
+parking_meter 36 218 40 226

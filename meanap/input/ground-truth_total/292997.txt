@@ -1,0 +1,13 @@
+car 313 248 516 315
+car 408 234 481 270
+car 325 228 351 245
+truck 392 194 584 266
+traffic_light 474 110 509 167
+person 608 230 638 299
+person 432 239 442 248
+traffic_light 515 193 530 212
+traffic_light 506 194 518 212
+car 0 212 190 383
+traffic_light 4 162 18 189
+traffic_light 215 198 227 211
+person 363 228 377 246

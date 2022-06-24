@@ -1,0 +1,6 @@
+person 386 73 496 212
+person 71 174 125 201
+person 49 211 98 331
+skateboard 387 173 433 220
+skateboard 85 273 101 330
+cell_phone 97 186 102 190

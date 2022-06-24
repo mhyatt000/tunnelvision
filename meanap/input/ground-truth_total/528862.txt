@@ -1,0 +1,7 @@
+giraffe 162 147 205 266
+giraffe 233 172 255 247
+giraffe 254 149 317 276
+giraffe 343 153 365 237
+giraffe 184 65 219 167
+giraffe 321 133 343 221
+giraffe 43 102 77 265

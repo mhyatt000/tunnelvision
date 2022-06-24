@@ -1,0 +1,12 @@
+dining_table 525 294 640 388
+dining_table 134 377 640 421
+motorcycle 25 110 126 314
+person 495 120 587 261
+person 432 143 480 252
+person 38 111 70 204
+person 185 106 249 154
+umbrella 56 1 483 154
+suitcase 125 137 438 413
+person 0 240 164 427
+person 589 136 640 259
+umbrella 529 0 640 139

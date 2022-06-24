@@ -1,0 +1,8 @@
+cell_phone 54 172 100 199
+person 35 15 289 237
+backpack 1 185 56 236
+person 97 69 141 136
+person 84 66 97 107
+person 127 62 141 91
+person 71 71 79 92
+chair 280 181 320 240

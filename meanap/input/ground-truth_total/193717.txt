@@ -1,0 +1,12 @@
+car 291 202 354 226
+car 354 199 402 228
+traffic_light 130 78 148 103
+traffic_light 314 27 329 63
+fire_hydrant 38 31 401 611
+person 400 118 502 305
+handbag 446 195 465 218
+car 0 173 40 221
+traffic_light 328 130 336 156
+car 476 215 521 234
+car 82 197 126 215
+traffic_light 340 138 348 158

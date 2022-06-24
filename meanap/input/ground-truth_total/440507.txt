@@ -1,0 +1,3 @@
+umbrella 55 0 129 107
+umbrella 46 0 114 109
+suitcase 203 146 452 321

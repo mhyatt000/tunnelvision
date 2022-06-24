@@ -1,0 +1,6 @@
+bicycle 126 288 171 317
+person 255 216 313 353
+person 133 249 159 324
+skateboard 246 343 297 361
+train 314 190 640 316
+skateboard 121 322 142 328

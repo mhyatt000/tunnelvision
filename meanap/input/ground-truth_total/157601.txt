@@ -1,0 +1,5 @@
+hot_dog 110 188 244 334
+sandwich 114 211 259 338
+cup 192 305 397 584
+person 0 84 330 418
+dining_table 168 497 612 604

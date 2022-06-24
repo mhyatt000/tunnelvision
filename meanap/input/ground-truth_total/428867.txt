@@ -1,0 +1,7 @@
+teddy_bear 87 108 218 299
+teddy_bear 151 122 234 271
+teddy_bear 205 129 277 226
+teddy_bear 228 54 301 182
+chair 480 150 497 218
+dining_table 2 148 432 328
+chair 423 132 437 149

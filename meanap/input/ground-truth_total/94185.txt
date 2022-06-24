@@ -1,0 +1,12 @@
+teddy_bear 231 222 381 473
+teddy_bear 167 243 229 330
+teddy_bear 198 199 226 229
+teddy_bear 152 244 170 275
+teddy_bear 154 305 171 335
+teddy_bear 419 271 455 302
+teddy_bear 428 308 455 340
+teddy_bear 468 273 494 300
+teddy_bear 395 314 426 344
+teddy_bear 597 402 627 480
+person 0 252 25 362
+teddy_bear 415 192 442 231

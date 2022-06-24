@@ -1,0 +1,5 @@
+dog 35 76 288 295
+potted_plant 202 218 451 330
+cat 237 23 499 254
+dining_table 347 229 500 330
+chair 314 0 500 259

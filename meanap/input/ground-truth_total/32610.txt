@@ -1,0 +1,7 @@
+laptop 302 117 430 255
+laptop 55 80 241 260
+laptop 384 75 533 199
+backpack 70 211 376 427
+laptop 244 94 377 221
+laptop 155 17 290 179
+laptop 298 18 456 117

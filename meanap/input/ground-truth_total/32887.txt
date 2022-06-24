@@ -1,0 +1,4 @@
+cell_phone 141 57 145 61
+person 373 119 499 464
+person 96 48 159 195
+backpack 446 159 517 280

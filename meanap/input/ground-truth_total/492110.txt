@@ -1,0 +1,15 @@
+cell_phone 334 360 428 406
+chair 31 177 78 229
+person 251 4 547 423
+person 51 104 156 261
+person 42 114 72 161
+cup 161 368 271 425
+laptop 70 207 343 400
+chair 234 189 298 279
+chair 116 185 218 266
+chair 0 204 51 317
+dining_table 155 174 295 193
+dining_table 270 179 624 225
+dining_table 124 164 199 186
+dining_table 18 160 58 181
+chair 507 264 589 419

@@ -1,0 +1,4 @@
+broccoli 402 247 486 341
+carrot 296 312 386 376
+carrot 422 283 584 391
+sandwich 86 96 531 364

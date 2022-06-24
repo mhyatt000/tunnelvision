@@ -1,0 +1,4 @@
+motorcycle 5 130 320 475
+person 210 106 444 478
+person 370 122 518 480
+truck 0 179 47 214

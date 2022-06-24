@@ -1,0 +1,1 @@
+fire_hydrant 48 16 216 400

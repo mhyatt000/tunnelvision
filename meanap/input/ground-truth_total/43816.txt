@@ -1,0 +1,5 @@
+sports_ball 93 215 108 227
+person 250 80 453 344
+person 479 193 640 370
+baseball_bat 318 187 427 220
+baseball_glove 480 227 527 274

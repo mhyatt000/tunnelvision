@@ -1,0 +1,8 @@
+person 481 0 530 109
+person 531 0 568 97
+person 273 0 311 95
+person 225 1 272 83
+person 385 0 441 100
+snowboard 467 44 496 99
+handbag 530 14 550 50
+fire_hydrant 385 214 461 353

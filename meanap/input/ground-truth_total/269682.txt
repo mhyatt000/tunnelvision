@@ -1,0 +1,10 @@
+traffic_light 552 312 570 345
+traffic_light 296 325 316 374
+traffic_light 256 337 283 367
+traffic_light 422 329 435 358
+traffic_light 328 409 337 430
+traffic_light 618 403 626 424
+traffic_light 552 408 564 433
+traffic_light 346 414 356 435
+traffic_light 393 462 404 478
+traffic_light 201 433 211 469

@@ -1,0 +1,11 @@
+umbrella 397 0 640 158
+surfboard 3 0 134 456
+surfboard 129 1 257 434
+surfboard 231 2 372 420
+surfboard 310 0 460 405
+surfboard 408 0 518 381
+surfboard 478 44 527 354
+surfboard 509 74 580 365
+surfboard 580 50 623 339
+surfboard 612 84 639 316
+surfboard 532 58 598 356

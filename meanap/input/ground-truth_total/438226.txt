@@ -1,0 +1,6 @@
+sandwich 220 4 337 119
+sandwich 333 27 466 159
+wine_glass 0 3 66 241
+fork 545 39 607 111
+dining_table 0 0 640 286
+hot_dog 219 5 457 156

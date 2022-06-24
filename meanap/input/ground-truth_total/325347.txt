@@ -1,0 +1,7 @@
+chair 291 0 365 90
+chair 398 3 473 91
+person 115 4 171 98
+tennis_racket 225 210 333 259
+backpack 233 45 294 93
+person 291 74 471 303
+backpack 463 48 532 97

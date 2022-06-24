@@ -1,0 +1,4 @@
+teddy_bear 248 96 454 333
+teddy_bear 47 98 290 314
+teddy_bear 423 155 565 341
+bed 0 0 638 441

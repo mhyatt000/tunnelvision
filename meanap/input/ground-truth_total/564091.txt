@@ -1,0 +1,5 @@
+bottle 170 264 208 339
+person 9 0 324 370
+cell_phone 223 62 246 74
+handbag 354 304 427 418
+cell_phone 219 55 250 91

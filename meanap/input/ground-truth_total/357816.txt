@@ -1,0 +1,10 @@
+sports_ball 405 189 426 211
+person 401 46 499 248
+person 13 65 306 447
+person 1 80 96 288
+baseball_bat 267 184 351 235
+baseball_glove 347 104 384 138
+car 3 5 305 85
+bench 179 102 464 250
+umbrella 17 28 123 123
+person 284 1 382 261

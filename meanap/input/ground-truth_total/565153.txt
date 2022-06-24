@@ -1,0 +1,2 @@
+stop_sign 109 164 167 220
+parking_meter 163 304 200 371

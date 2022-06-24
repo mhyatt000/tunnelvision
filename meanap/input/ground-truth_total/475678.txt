@@ -1,0 +1,12 @@
+suitcase 158 161 310 472
+suitcase 299 134 442 410
+suitcase 425 109 619 461
+suitcase 32 158 189 438
+suitcase 2 134 84 459
+suitcase 197 74 295 177
+suitcase 398 68 487 178
+suitcase 547 107 638 429
+suitcase 95 65 202 174
+suitcase 290 4 406 152
+suitcase 446 23 588 118
+suitcase 63 53 131 98

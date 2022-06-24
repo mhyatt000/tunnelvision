@@ -1,0 +1,5 @@
+sports_ball 116 235 130 249
+person 172 143 469 369
+tennis_racket 109 270 189 309
+tennis_racket 141 88 163 141
+tennis_racket 108 94 128 148

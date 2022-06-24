@@ -1,0 +1,7 @@
+bottle 20 253 45 348
+bottle 37 262 51 337
+person 179 39 328 312
+toilet 44 210 173 303
+sink 1 308 282 498
+bottle 48 268 63 325
+cell_phone 278 85 293 117

@@ -1,0 +1,8 @@
+dog 0 86 451 480
+person 248 2 387 229
+person 358 33 480 235
+skateboard 1 344 480 520
+book 350 56 407 98
+person 391 8 480 217
+person 441 35 480 111
+bench 360 146 417 226

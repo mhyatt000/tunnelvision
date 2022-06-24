@@ -1,0 +1,5 @@
+bottle 231 83 247 154
+traffic_light 197 78 203 86
+person 9 190 27 239
+person 205 150 225 201
+person 249 160 276 189

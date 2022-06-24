@@ -1,0 +1,8 @@
+bottle 527 52 606 143
+dining_table 7 1 640 472
+knife 0 134 20 198
+bottle 459 71 537 165
+bottle 468 2 553 91
+bowl 317 162 637 470
+sandwich 1 191 268 425
+wine_glass 231 0 363 79

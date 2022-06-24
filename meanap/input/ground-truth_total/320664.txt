@@ -1,0 +1,5 @@
+dining_table 2 0 640 472
+fork 1 194 107 260
+knife 403 141 640 189
+spoon 255 1 402 123
+hot_dog 160 208 359 474

@@ -1,0 +1,8 @@
+person 293 170 340 225
+person 333 160 355 226
+person 81 105 112 206
+person 24 126 47 175
+toilet 134 440 256 609
+potted_plant 23 210 102 291
+potted_plant 299 249 349 325
+person 0 158 39 551

@@ -1,0 +1,8 @@
+bed 122 267 475 420
+person 150 186 267 370
+potted_plant 253 12 301 49
+vase 135 353 198 427
+vase 170 325 228 421
+vase 209 32 231 51
+potted_plant 389 11 442 51
+potted_plant 324 23 362 50

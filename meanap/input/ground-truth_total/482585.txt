@@ -1,0 +1,6 @@
+train 21 78 443 390
+train 444 156 564 303
+handbag 611 249 622 260
+person 579 215 593 262
+traffic_light 584 192 596 215
+person 586 218 616 288

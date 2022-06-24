@@ -1,0 +1,5 @@
+sports_ball 199 312 217 330
+car 1 155 394 469
+tennis_racket 152 333 188 456
+person 148 141 265 538
+car 314 231 426 308

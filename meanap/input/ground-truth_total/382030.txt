@@ -1,0 +1,4 @@
+umbrella 113 76 458 148
+potted_plant 406 9 445 56
+dining_table 0 1 497 369
+sports_ball 2 48 106 218

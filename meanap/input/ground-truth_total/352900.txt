@@ -1,0 +1,9 @@
+fork 0 35 45 97
+knife 0 0 202 133
+broccoli 451 129 538 210
+broccoli 220 102 349 220
+broccoli 495 188 574 330
+broccoli 441 68 482 107
+bowl 1 32 640 423
+broccoli 463 242 496 278
+broccoli 165 78 269 173

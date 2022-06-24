@@ -1,0 +1,6 @@
+elephant 278 159 347 266
+elephant 208 161 281 268
+elephant 340 163 416 244
+elephant 463 135 520 225
+elephant 245 149 304 176
+umbrella 52 158 74 164

@@ -1,0 +1,10 @@
+dining_table 2 1 640 474
+fork 0 165 340 239
+bowl 2 56 357 475
+bowl 345 4 640 360
+broccoli 127 385 208 446
+broccoli 211 317 258 349
+broccoli 295 254 326 279
+broccoli 143 341 157 361
+broccoli 6 363 32 384
+sandwich 0 49 295 260

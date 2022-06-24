@@ -1,0 +1,11 @@
+person 94 34 229 329
+person 1 2 134 172
+baseball_bat 441 147 527 440
+backpack 231 243 364 472
+baseball_bat 372 16 443 355
+baseball_bat 386 167 490 473
+baseball_bat 440 186 534 468
+baseball_bat 428 101 501 337
+person 161 92 481 474
+bench 1 13 47 93
+baseball_bat 443 96 470 251

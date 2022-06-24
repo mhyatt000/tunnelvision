@@ -1,0 +1,8 @@
+refrigerator 205 168 323 335
+bed 329 419 480 632
+dining_table 324 304 431 422
+keyboard 6 348 123 398
+chair 0 517 169 640
+tv 0 251 87 365
+mouse 129 335 155 356
+microwave 3 246 96 377

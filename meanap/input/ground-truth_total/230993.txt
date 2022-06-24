@@ -1,0 +1,7 @@
+umbrella 53 40 395 257
+umbrella 370 65 619 197
+person 369 185 504 397
+person 99 224 283 401
+backpack 217 247 282 351
+handbag 311 217 414 404
+handbag 221 249 280 350

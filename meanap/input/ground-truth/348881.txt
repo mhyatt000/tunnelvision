@@ -1,0 +1,5 @@
+person 567 273 599 347
+airplane 0 1 161 265
+person 251 106 274 168
+airplane 0 23 30 64
+suitcase 561 313 573 333

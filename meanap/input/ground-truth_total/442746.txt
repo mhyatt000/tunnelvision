@@ -1,0 +1,6 @@
+car 311 130 364 150
+person 182 105 234 228
+frisbee 222 133 239 140
+traffic_light 15 97 20 107
+traffic_light 61 99 66 111
+traffic_light 44 68 48 79

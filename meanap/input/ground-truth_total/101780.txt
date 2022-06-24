@@ -1,0 +1,4 @@
+giraffe 72 174 201 528
+giraffe 372 221 466 340
+giraffe 0 256 105 403
+giraffe 0 309 59 408

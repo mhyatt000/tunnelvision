@@ -1,0 +1,11 @@
+dining_table 0 155 478 442
+wine_glass 77 0 371 356
+cup 293 97 460 276
+spoon 48 96 124 165
+spoon 339 362 375 399
+bowl 35 121 186 226
+pizza 23 326 378 637
+dining_table 0 327 478 631
+wine_glass 239 168 301 277
+pizza 105 382 478 629
+person 352 3 478 142

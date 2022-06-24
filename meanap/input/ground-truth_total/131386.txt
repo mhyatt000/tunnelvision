@@ -1,0 +1,4 @@
+airplane 151 206 490 380
+airplane 225 191 547 305
+airplane 377 186 608 352
+airplane 512 184 640 334

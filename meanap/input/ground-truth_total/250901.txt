@@ -1,0 +1,6 @@
+sandwich 175 162 349 320
+sandwich 360 128 500 302
+person 416 0 640 164
+person 0 0 208 307
+person 211 1 414 130
+book 50 115 147 181
