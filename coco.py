@@ -147,10 +147,11 @@ def experiment2():
     ap.add_argument('-e','--eval',action='store_true')
     ap.add_argument('-i','--inference',action='store_true')
     ap.add_argument('-f','--file',type=str)
+    ap.add_argument('-r','--root',type=str)
     args = ap.parse_args()
 
     dset = 'val'
-    coco_path = "/Users/matthewhyatt/cs/.datasets/COCOdataset2017"
+    coco_path = f"{args.root}/COCOdataset2017"
     coco = COCO( f"{coco_path}/annotations/instances_val2017.json")
 
     catIds = coco.getCatIds()
