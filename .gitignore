@@ -1,5 +1,6 @@
 ###
-extra things matt wants to ignore
+# extra things matt wants to ignore
+*.txt
 *.zip
 *.jpg
 *.png
