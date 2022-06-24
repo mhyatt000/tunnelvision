@@ -193,10 +193,10 @@ def experiment2():
 
     if args.inference: 
 
-        model = "hustvl/yolos-base"
+        model = "hustvl/yolos-tiny"
         pipe = pipeline("object-detection", model=model, device=-1)
         
-        legend = UU.coco.id2l()
+        legend = UU.coco.id2l(args.root)
         l2id = lambda l: legend['l2id'][l]
         xyxy2xywh = lambda b: [b['xmin'],b['ymin'],b['xmax']-b['xmin'],b['ymax']-b['ymin']]
 
@@ -280,8 +280,8 @@ def experiment2():
 
 
 def main():
-    # experiment2()
-    experiment2_mk_dataset()
+    experiment2()
+    # experiment2_mk_dataset()
 
 
 if __name__ == "__main__":
