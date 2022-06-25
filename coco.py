@@ -99,6 +99,7 @@ def experiment2_mk_dataset():
     """
 
     ap = AP()
+    ap.add_argument('-ds','--downsample',action='store_true')
     ap.add_argument('-r','--root',type=str)
     args = ap.parse_args()
 
@@ -122,12 +123,14 @@ def experiment2_mk_dataset():
     # shadows = [f'{coco_path}/images/val_shadow/{img["file_name"]}' for img in img_infos]
 
 
-    import matplotlib as mpl
-    mpl.rcParams['figure.dpi']= 600
-
     for id, img in tqdm(zip(imgIds, img_infos), total=len(img_infos)):
 
         I = io.imread(f'{coco_path}/images/{dset}/{img["file_name"]}') / 255.0
+
+        if args.downsample: #just downsample the images with no shadow
+            path = f'{coco_path}/images/val_downsample/{img["file_name"]}'
+            plt.imsave(path, I) #, dpi=600)
+            continue
 
         annIds = coco.getAnnIds(imgIds=id, catIds=catIds, iscrowd=None)
         anns = coco.loadAnns(annIds)
@@ -152,9 +155,7 @@ def experiment2_mk_dataset():
         I *= mask
 
         path = f'{coco_path}/images/val_shadow/{img["file_name"]}'
-        print(path)
         plt.imsave(path, I, dpi=600)
-        quit()
 
 
 def experiment2():
@@ -190,6 +191,7 @@ def experiment2():
     anns = coco.loadAnns(annIds)
 
     shadows = [f'{coco_path}/images/val_shadow/{img["file_name"]}' for img in img_infos]
+    lows = [f'{coco_path}/images/val_downsample/{img["file_name"]}' for img in img_infos]
 
     if args.inference: 
 
@@ -200,7 +202,8 @@ def experiment2():
         l2id = lambda l: legend['l2id'][l]
         xyxy2xywh = lambda b: [b['xmin'],b['ymin'],b['xmax']-b['xmin'],b['ymax']-b['ymin']]
 
-        for dset, filename in zip([dataset,shadows],['val_dt.json','val_shadows.json']):
+        # for dset, filename in zip([dataset,shadows],['val_dt.json','val_shadows.json']):
+        for dset, filename in zip([lows],['val_lows.json']):
 
             dt = []
             for i, item in tqdm(enumerate(dset), total=len(dset)):
@@ -220,53 +223,9 @@ def experiment2():
             with open(filename,'w') as file:
                 json.dump(dt,file)
 
-
-
-
-
-
-
-
-
-
-
-
-        '''
-        dt = []
-        feature_extractor = YolosFeatureExtractor.from_pretrained("hustvl/yolos-tiny")
-        model = YolosForObjectDetection.from_pretrained("hustvl/yolos-tiny")
-
-
-        for id, p in tqdm(zip(imgIds, dataset), total=len(imgIds)):
-
-            img = torch.Tensor(read_img(p))
-            img = torch.stack([img,img,img],dim=-1) if len(img.shape) == 2 else img
-
-            inputs = feature_extractor(img, return_tensors="pt")
-            outputs = model(**inputs)
-            bboxes = outputs.pred_boxes
-            logits = outputs.logits
-
-            outputs =  [UU.val.nms(bboxes=b, logits=l, size=img.shape) for b, l in zip(bboxes, logits)]
-            for d in outputs:
-
-                preds = [ {
-                        "bbox": UU.bbox.xyxy2xywh(i[..., :4]).tolist(),
-                        "score": float(i[..., 4].item()),
-                        "category_id": int(i[..., -1].item()),
-                        "image_id": id,
-                    } for i in d ]
-                dt += preds
-            # pprint(len(preds))
-            # quit()
-
-        with open('val_dt.json', 'w') as file:
-            json.dump(dt,file)
-        '''
-
     if args.eval:
 
-        for filename in ['val_dt.json','val_shadows.json']:
+        for filename in ['val_dt.json','val_shadows.json','val_lows.json']:
 
             print(filename)
 
