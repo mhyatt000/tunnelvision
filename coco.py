@@ -113,16 +113,6 @@ def experiment2_mk_dataset():
     imgIds = coco.getImgIds() # [:64]
     img_infos = coco.loadImgs(imgIds)
 
-    # img2path = lambda img: f'{coco_path}/images/{dset}/{img["file_name"]}'
-    # read_img = lambda img: plt.imread(img)
-    # dataset = [img2path(img) for img in img_infos]
-
-    # annIds = coco.getAnnIds(imgIds=imgIds, catIds=catIds, iscrowd=None)
-    # anns = coco.loadAnns(annIds)
-
-    # shadows = [f'{coco_path}/images/val_shadow/{img["file_name"]}' for img in img_infos]
-
-
     for id, img in tqdm(zip(imgIds, img_infos), total=len(img_infos)):
 
         I = io.imread(f'{coco_path}/images/{dset}/{img["file_name"]}') / 255.0
@@ -195,10 +185,10 @@ def experiment2():
 
     if args.inference: 
 
-        model = "hustvl/yolos-base"
+        model = "hustvl/yolos-tiny"
         pipe = pipeline("object-detection", model=model, device=-1)
         
-        legend = UU.coco.id2l()
+        legend = UU.coco.id2l(args.root)
         l2id = lambda l: legend['l2id'][l]
         xyxy2xywh = lambda b: [b['xmin'],b['ymin'],b['xmax']-b['xmin'],b['ymax']-b['ymin']]
 
@@ -239,8 +229,8 @@ def experiment2():
 
 
 def main():
-    # experiment2()
-    experiment2_mk_dataset()
+    experiment2()
+    # experiment2_mk_dataset()
 
 
 if __name__ == "__main__":
