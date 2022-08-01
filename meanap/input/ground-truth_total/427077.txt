@@ -1,2 +1,0 @@
-person 116 76 272 407
-baseball_bat 113 109 282 135

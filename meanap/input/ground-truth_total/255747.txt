@@ -1,3 +1,0 @@
-sandwich 100 85 558 411
-sandwich 7 2 256 192
-dining_table 0 0 640 480

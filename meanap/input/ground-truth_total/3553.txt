@@ -1,2 +1,0 @@
-person 153 0 420 308
-skateboard 186 262 367 371

@@ -1,2 +1,0 @@
-traffic_light 33 118 42 132
-stop_sign 284 159 292 169

@@ -1,2 +1,0 @@
-hot_dog 103 212 362 454
-dining_table 0 2 480 639

@@ -1,3 +1,0 @@
-banana 27 122 437 280
-banana 64 151 457 385
-dining_table 4 6 607 592

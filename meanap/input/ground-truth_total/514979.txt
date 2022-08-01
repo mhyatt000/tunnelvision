@@ -1,2 +1,0 @@
-elephant 156 38 490 414
-elephant 452 4 640 412

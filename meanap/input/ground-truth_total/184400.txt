@@ -1,2 +1,0 @@
-train 4 206 454 316
-traffic_light 549 460 584 480

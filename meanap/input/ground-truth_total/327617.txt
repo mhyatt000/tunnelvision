@@ -1,2 +1,0 @@
-person 63 106 251 629
-tennis_racket 144 300 240 509

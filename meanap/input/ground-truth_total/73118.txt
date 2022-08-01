@@ -1,2 +1,0 @@
-teddy_bear 107 44 612 609
-teddy_bear 0 175 273 604

@@ -1,3 +1,0 @@
-bicycle 34 0 110 48
-person 84 51 222 387
-skateboard 68 306 159 387

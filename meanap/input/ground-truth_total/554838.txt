@@ -1,3 +1,0 @@
-refrigerator 70 379 433 632
-bottle 80 304 135 387
-bottle 308 301 362 382

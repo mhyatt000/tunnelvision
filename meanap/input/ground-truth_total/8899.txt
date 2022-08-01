@@ -1,2 +1,0 @@
-fire_hydrant 140 398 180 493
-bicycle 23 346 73 450

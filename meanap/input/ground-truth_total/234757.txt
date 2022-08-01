@@ -1,3 +1,0 @@
-bench 361 210 426 270
-parking_meter 284 75 357 360
-bench 152 20 195 45

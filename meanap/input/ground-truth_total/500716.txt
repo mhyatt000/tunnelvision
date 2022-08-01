@@ -1,2 +1,0 @@
-person 0 0 445 500
-scissors 0 46 172 293

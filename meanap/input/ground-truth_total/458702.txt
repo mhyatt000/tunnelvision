@@ -1,4 +1,0 @@
-parking_meter 109 153 155 294
-car 3 447 153 498
-parking_meter 175 153 234 291
-car 0 446 116 500

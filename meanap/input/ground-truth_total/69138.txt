@@ -1,2 +1,0 @@
-traffic_light 99 47 258 544
-truck 33 170 106 357

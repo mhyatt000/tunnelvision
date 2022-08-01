@@ -1,2 +1,0 @@
-person 96 1 371 499
-teddy_bear 6 85 250 500

@@ -1,2 +1,0 @@
-person 94 15 354 501
-skateboard 95 436 363 541

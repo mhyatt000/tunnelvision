@@ -1,2 +1,0 @@
-person 63 0 348 225
-skateboard 238 187 345 243

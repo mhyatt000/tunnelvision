@@ -1,2 +1,0 @@
-cell_phone 352 89 600 259
-keyboard 84 7 640 166

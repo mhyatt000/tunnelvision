@@ -1,1 +1,0 @@
-traffic_light 212 278 315 461

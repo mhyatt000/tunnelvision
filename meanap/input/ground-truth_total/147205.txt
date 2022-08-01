@@ -1,2 +1,0 @@
-dining_table 0 1 640 432
-cake 0 95 103 216

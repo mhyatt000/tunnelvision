@@ -1,3 +1,0 @@
-knife 452 9 627 384
-sandwich 55 103 384 352
-sandwich 203 8 476 223

@@ -1,3 +1,0 @@
-baseball_bat 10 192 273 306
-person 186 87 376 632
-sports_ball 333 312 388 376

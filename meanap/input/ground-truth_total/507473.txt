@@ -1,3 +1,0 @@
-toothbrush 291 147 351 190
-person 29 8 427 474
-cell_phone 159 127 238 176

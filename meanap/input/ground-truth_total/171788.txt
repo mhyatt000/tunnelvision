@@ -1,3 +1,0 @@
-sports_ball 402 348 425 373
-person 64 108 426 626
-tennis_racket 269 362 325 522

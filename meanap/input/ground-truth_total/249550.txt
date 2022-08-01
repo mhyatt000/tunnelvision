@@ -1,3 +1,0 @@
-potted_plant 290 222 391 369
-potted_plant 257 255 288 281
-bed 2 199 257 617
