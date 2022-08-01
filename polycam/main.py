@@ -20,7 +20,7 @@ def main():
     dataset = load_dataset("huggingface/cats-image")
     image = dataset["test"]["image"][0]
 
-    pipe = transformers.pipeline("image-classification", model="microsoft/resnet-50")
+    pipe = transformers.pipeline('image-classification',model="microsoft/resnet-50")
     model = pipe.model
     print(type(model))
 
